@@ -1,0 +1,5212 @@
+{
+  "greek": [
+    {
+      "difficulty": "easy",
+      "question": "Who is the king of the Greek gods?",
+      "options": [
+        "Zeus",
+        "Poseidon",
+        "Hades",
+        "Apollo"
+      ],
+      "correct": 0,
+      "fact": "Zeus rules from Mount Olympus and controls the sky and thunder."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the Roman name for Zeus?",
+      "options": [
+        "Jupiter",
+        "Mars",
+        "Neptune",
+        "Mercury"
+      ],
+      "correct": 0,
+      "fact": "The Romans adopted Greek gods and renamed them in their pantheon."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the goddess of wisdom?",
+      "options": [
+        "Athena",
+        "Aphrodite",
+        "Hera",
+        "Artemis"
+      ],
+      "correct": 0,
+      "fact": "Athena sprang fully formed from Zeus's head."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the underworld called in Greek mythology?",
+      "options": [
+        "Hades",
+        "Tartarus",
+        "Elysium",
+        "Styx"
+      ],
+      "correct": 0,
+      "fact": "Hades is both the name of the underworld and its ruler."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the god of the sea?",
+      "options": [
+        "Poseidon",
+        "Zeus",
+        "Ares",
+        "Hephaestus"
+      ],
+      "correct": 0,
+      "fact": "Poseidon carries a trident and can cause earthquakes."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the three-headed dog guarding the underworld?",
+      "options": [
+        "Cerberus",
+        "Medusa",
+        "Chimera",
+        "Sphinx"
+      ],
+      "correct": 0,
+      "fact": "Cerberus is one of the most famous monsters in Greek mythology."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the goddess of love and beauty?",
+      "options": [
+        "Aphrodite",
+        "Hera",
+        "Athena",
+        "Artemis"
+      ],
+      "correct": 0,
+      "fact": "Aphrodite was born from sea foam according to Homer."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is Mount Olympus?",
+      "options": [
+        "Home of the gods",
+        "A mountain in Greece",
+        "An underworld realm",
+        "A sea kingdom"
+      ],
+      "correct": 0,
+      "fact": "Mount Olympus is the highest mountain in Greece and the mythical home of the Olympians."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the god of war?",
+      "options": [
+        "Ares",
+        "Athena",
+        "Apollo",
+        "Hermes"
+      ],
+      "correct": 0,
+      "fact": "Ares represents the brutal aspects of war, while Athena represents strategy."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the famous labyrinth?",
+      "options": [
+        "Labyrinth of Crete",
+        "Labyrinth of Athens",
+        "Labyrinth of Sparta",
+        "Labyrinth of Corinth"
+      ],
+      "correct": 0,
+      "fact": "The Labyrinth was built to contain the Minotaur."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who killed the Minotaur?",
+      "options": [
+        "Theseus",
+        "Heracles",
+        "Perseus",
+        "Achilles"
+      ],
+      "correct": 0,
+      "fact": "Theseus navigated the labyrinth using a thread given by Ariadne."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the god of the sun?",
+      "options": [
+        "Apollo",
+        "Helios",
+        "Hyperion",
+        "Phoebus"
+      ],
+      "correct": 0,
+      "fact": "Apollo drives the sun chariot across the sky each day."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the goddess of the hunt?",
+      "options": [
+        "Artemis",
+        "Athena",
+        "Aphrodite",
+        "Hestia"
+      ],
+      "correct": 0,
+      "fact": "Artemis is the twin sister of Apollo and a virgin goddess."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of Heracles' 12 famous tasks?",
+      "options": [
+        "The Twelve Labors",
+        "The Herculean Tasks",
+        "The Divine Trials",
+        "The Olympian Challenges"
+      ],
+      "correct": 0,
+      "fact": "Heracles performed these tasks to atone for his crimes."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the messenger god?",
+      "options": [
+        "Hermes",
+        "Apollo",
+        "Ares",
+        "Hephaestus"
+      ],
+      "correct": 0,
+      "fact": "Hermes wears winged sandals and carries a caduceus."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the river separating the living from the dead?",
+      "options": [
+        "River Styx",
+        "River Lethe",
+        "River Acheron",
+        "River Phlegethon"
+      ],
+      "correct": 0,
+      "fact": "Souls must cross the River Styx to reach the underworld."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the god of the forge?",
+      "options": [
+        "Hephaestus",
+        "Ares",
+        "Hades",
+        "Poseidon"
+      ],
+      "correct": 0,
+      "fact": "Hephaestus is the craftsman of the gods and created many magical items."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the king of the sea in Roman mythology?",
+      "options": [
+        "Neptune",
+        "Mars",
+        "Jupiter",
+        "Vulcan"
+      ],
+      "correct": 0,
+      "fact": "Neptune is the Roman equivalent of Poseidon."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the golden apple that caused the Trojan War?",
+      "options": [
+        "Apple of Discord",
+        "Golden Fruit",
+        "Fruit of Strife",
+        "Prize of Eris"
+      ],
+      "correct": 0,
+      "fact": "The apple was inscribed 'For the Fairest' and sparked a dispute between goddesses."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who won the beauty contest for the golden apple?",
+      "options": [
+        "Aphrodite",
+        "Athena",
+        "Hera",
+        "Artemis"
+      ],
+      "correct": 0,
+      "fact": "Paris chose Aphrodite, who promised him the most beautiful woman in the world."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the Trojan War's most famous warrior?",
+      "options": [
+        "Achilles",
+        "Hector",
+        "Ajax",
+        "Diomedes"
+      ],
+      "correct": 0,
+      "fact": "Achilles was nearly invulnerable except for his heel."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the queen of the gods?",
+      "options": [
+        "Hera",
+        "Athena",
+        "Aphrodite",
+        "Artemis"
+      ],
+      "correct": 0,
+      "fact": "Hera is the wife of Zeus and goddess of marriage and family."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the Trojan horse?",
+      "options": [
+        "Wooden Horse",
+        "Greek Horse",
+        "Trojan Steed",
+        "Horse of Troy"
+      ],
+      "correct": 0,
+      "fact": "Greek soldiers hid inside the wooden horse to enter Troy."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the god of wine?",
+      "options": [
+        "Dionysus",
+        "Apollo",
+        "Hermes",
+        "Hephaestus"
+      ],
+      "correct": 0,
+      "fact": "Dionysus is also known as Bacchus in Roman mythology."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the monster with a lion's head and serpent's tail?",
+      "options": [
+        "Chimera",
+        "Medusa",
+        "Sphinx",
+        "Hydra"
+      ],
+      "correct": 0,
+      "fact": "The Chimera was killed by Bellerophon riding Pegasus."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the goddess of the hearth?",
+      "options": [
+        "Hestia",
+        "Hera",
+        "Athena",
+        "Aphrodite"
+      ],
+      "correct": 0,
+      "fact": "Hestia is the least prominent of the twelve Olympians."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the nine-headed serpent monster?",
+      "options": [
+        "Hydra",
+        "Chimera",
+        "Medusa",
+        "Scylla"
+      ],
+      "correct": 0,
+      "fact": "Heracles killed the Hydra as one of his twelve labors."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the gorgon with snakes for hair?",
+      "options": [
+        "Medusa",
+        "Scylla",
+        "Chimera",
+        "Sphinx"
+      ],
+      "correct": 0,
+      "fact": "Medusa was killed by Perseus using her own reflection."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the winged horse?",
+      "options": [
+        "Pegasus",
+        "Hippogriff",
+        "Phoenix",
+        "Griffin"
+      ],
+      "correct": 0,
+      "fact": "Pegasus was born from Medusa's blood and used by Bellerophon."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the god of the underworld?",
+      "options": [
+        "Hades",
+        "Thanatos",
+        "Charon",
+        "Cerberus"
+      ],
+      "correct": 0,
+      "fact": "Hades is often confused with Thanatos, the god of death itself."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the ferryman of the dead?",
+      "options": [
+        "Charon",
+        "Cerberus",
+        "Hades",
+        "Thanatos"
+      ],
+      "correct": 0,
+      "fact": "Charon requires payment (an obol) to ferry souls across the River Styx."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the hero who sailed with the Argonauts?",
+      "options": [
+        "Jason",
+        "Theseus",
+        "Achilles",
+        "Heracles"
+      ],
+      "correct": 0,
+      "fact": "Jason led the Argonauts in search of the Golden Fleece."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the Golden Fleece?",
+      "options": [
+        "Fleece of Chrysomallos",
+        "Golden Wool",
+        "Fleece of the Ram",
+        "Precious Fleece"
+      ],
+      "correct": 0,
+      "fact": "The Golden Fleece came from a winged golden ram."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the hero known for his strength?",
+      "options": [
+        "Heracles",
+        "Achilles",
+        "Ajax",
+        "Diomedes"
+      ],
+      "correct": 0,
+      "fact": "Heracles (Hercules) is famous for his incredible strength."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the Trojan prince?",
+      "options": [
+        "Hector",
+        "Paris",
+        "Priam",
+        "Aeneas"
+      ],
+      "correct": 0,
+      "fact": "Hector was the greatest warrior of Troy."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the hero of the Odyssey?",
+      "options": [
+        "Odysseus",
+        "Achilles",
+        "Ajax",
+        "Diomedes"
+      ],
+      "correct": 0,
+      "fact": "Odysseus spent ten years trying to return home after the Trojan War."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of Odysseus's wife?",
+      "options": [
+        "Penelope",
+        "Helen",
+        "Clytemnestra",
+        "Andromache"
+      ],
+      "correct": 0,
+      "fact": "Penelope waited faithfully for Odysseus to return home."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the goddess of wisdom and warfare?",
+      "options": [
+        "Athena",
+        "Ares",
+        "Hera",
+        "Artemis"
+      ],
+      "correct": 0,
+      "fact": "Athena represents strategic warfare, unlike Ares who represents brutal combat."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the Cyclops that Odysseus encountered?",
+      "options": [
+        "Polyphemus",
+        "Cyclops",
+        "Titan",
+        "Giant"
+      ],
+      "correct": 0,
+      "fact": "Polyphemus was the son of Poseidon."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the god of travelers and thieves?",
+      "options": [
+        "Hermes",
+        "Apollo",
+        "Ares",
+        "Hephaestus"
+      ],
+      "correct": 0,
+      "fact": "Hermes is the fastest of the gods and carries a caduceus."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the river in the underworld that causes forgetfulness?",
+      "options": [
+        "River Lethe",
+        "River Styx",
+        "River Acheron",
+        "River Phlegethon"
+      ],
+      "correct": 0,
+      "fact": "Souls who drink from the River Lethe forget their past lives."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the father of the gods?",
+      "options": [
+        "Kronos",
+        "Zeus",
+        "Uranus",
+        "Chaos"
+      ],
+      "correct": 0,
+      "fact": "Kronos was overthrown by his son Zeus in the Titanomachy."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the primordial chaos?",
+      "options": [
+        "Chaos",
+        "Void",
+        "Abyss",
+        "Darkness"
+      ],
+      "correct": 0,
+      "fact": "Chaos was the first state of existence in Greek mythology."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the titan of the sun?",
+      "options": [
+        "Hyperion",
+        "Helios",
+        "Apollo",
+        "Phoebus"
+      ],
+      "correct": 0,
+      "fact": "Hyperion was the father of Helios, Selene, and Eos."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the titan of the moon?",
+      "options": [
+        "Selene",
+        "Hecate",
+        "Artemis",
+        "Luna"
+      ],
+      "correct": 0,
+      "fact": "Selene drives the moon chariot across the night sky."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the goddess of dawn?",
+      "options": [
+        "Eos",
+        "Selene",
+        "Artemis",
+        "Aphrodite"
+      ],
+      "correct": 0,
+      "fact": "Eos is the sister of Helios and Selene."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the three Fates?",
+      "options": [
+        "Clotho, Lachesis, Atropos",
+        "Moirai, Norns, Wyrd",
+        "Furies, Erinyes, Harpies",
+        "Graces, Charites, Muses"
+      ],
+      "correct": 0,
+      "fact": "The Fates control the destiny of all mortals and gods."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who are the nine Muses?",
+      "options": [
+        "Goddesses of the arts",
+        "Goddesses of wisdom",
+        "Goddesses of nature",
+        "Goddesses of love"
+      ],
+      "correct": 0,
+      "fact": "The Muses inspire artists, poets, and musicians."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the curse placed on the House of Atreus?",
+      "options": [
+        "Curse of Atreus",
+        "Doom of the House",
+        "Fate of the Kings",
+        "Wrath of the Gods"
+      ],
+      "correct": 0,
+      "fact": "The curse involved cannibalism and murder across generations."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the king of Sparta in the Trojan War?",
+      "options": [
+        "Menelaus",
+        "Agamemnon",
+        "Achilles",
+        "Ajax"
+      ],
+      "correct": 0,
+      "fact": "Menelaus was married to Helen, whose abduction started the war."
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is the name of the Trojan War's duration?",
+      "options": [
+        "10 years",
+        "7 years",
+        "5 years",
+        "12 years"
+      ],
+      "correct": 0,
+      "fact": "The Trojan War lasted ten years according to Homer."
+    },
+    {
+      "difficulty": "medium",
+      "question": "Who is the father of Achilles?",
+      "options": [
+        "Peleus",
+        "Thetis",
+        "Nereus",
+        "Poseidon"
+      ],
+      "correct": 0,
+      "fact": "Peleus is a mortal king, while Thetis is a sea nymph."
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is the name of the Hydra's weakness?",
+      "options": [
+        "Immortal head",
+        "Golden head",
+        "Central head",
+        "All heads"
+      ],
+      "correct": 0,
+      "fact": "The Hydra has one immortal head that cannot be killed."
+    },
+    {
+      "difficulty": "medium",
+      "question": "Who is the father of Heracles?",
+      "options": [
+        "Zeus",
+        "Amphitryon",
+        "Poseidon",
+        "Ares"
+      ],
+      "correct": 0,
+      "fact": "Zeus is Heracles' biological father, Amphitryon his adoptive father."
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is the name of the curse on Oedipus?",
+      "options": [
+        "Patricide and incest",
+        "Murder and betrayal",
+        "Betrayal and theft",
+        "Murder and theft"
+      ],
+      "correct": 0,
+      "fact": "Oedipus unknowingly kills his father and marries his mother."
+    },
+    {
+      "difficulty": "medium",
+      "question": "Who is the sphinx that guards Thebes?",
+      "options": [
+        "Female sphinx",
+        "Male sphinx",
+        "Sphinx of Thebes",
+        "Great Sphinx"
+      ],
+      "correct": 0,
+      "fact": "The Sphinx asks the riddle: 'What walks on four legs in the morning, two at noon, three in the evening?'"
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is the answer to the Sphinx's riddle?",
+      "options": [
+        "Man",
+        "Human",
+        "Mortal",
+        "Person"
+      ],
+      "correct": 0,
+      "fact": "The answer is Man: crawling as a baby, walking upright as an adult, using a cane in old age."
+    },
+    {
+      "difficulty": "medium",
+      "question": "Who is the god of medicine?",
+      "options": [
+        "Asclepius",
+        "Apollo",
+        "Hermes",
+        "Hephaestus"
+      ],
+      "correct": 0,
+      "fact": "Asclepius is the son of Apollo and god of healing and medicine."
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is the name of the river that grants immortality?",
+      "options": [
+        "River of Forgetfulness",
+        "River Lethe",
+        "River Styx",
+        "River Acheron"
+      ],
+      "correct": 0,
+      "fact": "The River Lethe causes forgetfulness, not immortality; the Styx is the main river of the underworld."
+    },
+    {
+      "difficulty": "medium",
+      "question": "Who is the god of thieves?",
+      "options": [
+        "Hermes",
+        "Apollo",
+        "Ares",
+        "Hephaestus"
+      ],
+      "correct": 0,
+      "fact": "Hermes is the god of thieves, merchants, and travelers."
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is the name of the curse placed on Prometheus?",
+      "options": [
+        "Eagle eating liver",
+        "Eternal punishment",
+        "Bound to rock",
+        "All of the above"
+      ],
+      "correct": 3,
+      "fact": "Prometheus is chained to a rock and an eagle eats his liver daily, which regenerates."
+    },
+    {
+      "difficulty": "hard",
+      "question": "Who is the mother of the Furies?",
+      "options": [
+        "Nyx",
+        "Gaia",
+        "Chaos",
+        "Tartarus"
+      ],
+      "correct": 0,
+      "fact": "The Furies (Erinyes) are born from the blood of Uranus."
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is the name of the golden apple that started the Trojan War?",
+      "options": [
+        "Apple of Discord",
+        "Fruit of Eris",
+        "Golden Fruit",
+        "Prize of Strife"
+      ],
+      "correct": 0,
+      "fact": "Eris threw the apple inscribed 'For the Fairest' among the goddesses."
+    },
+    {
+      "difficulty": "hard",
+      "question": "Who is the only mortal to visit the underworld and return?",
+      "options": [
+        "Orpheus",
+        "Heracles",
+        "Odysseus",
+        "Aeneas"
+      ],
+      "correct": 0,
+      "fact": "Orpheus almost succeeded but failed when he looked back at Eurydice."
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is the name of the musical instrument Orpheus played?",
+      "options": [
+        "Lyre",
+        "Harp",
+        "Lute",
+        "Kithara"
+      ],
+      "correct": 0,
+      "fact": "Orpheus's lyre was so beautiful that even rocks and trees wept."
+    },
+    {
+      "difficulty": "hard",
+      "question": "Who is the father of the Titans?",
+      "options": [
+        "Uranus",
+        "Kronos",
+        "Chaos",
+        "Tartarus"
+      ],
+      "correct": 0,
+      "fact": "Uranus is the primordial sky god and father of the Titans."
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is the name of the curse on the House of Atreus?",
+      "options": [
+        "Curse of Tantalus",
+        "Curse of Pelops",
+        "Curse of Atreus",
+        "Curse of the Kings"
+      ],
+      "correct": 0,
+      "fact": "The curse involves cannibalism, murder, and betrayal across generations."
+    },
+    {
+      "difficulty": "hard",
+      "question": "Who is the hero who sailed with the Argonauts to find the Golden Fleece?",
+      "options": [
+        "Jason",
+        "Heracles",
+        "Theseus",
+        "Achilles"
+      ],
+      "correct": 0,
+      "fact": "Jason led the Argonauts, and Heracles was among the crew."
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is the name of the sea monster that guards the Strait of Messina?",
+      "options": [
+        "Scylla",
+        "Charybdis",
+        "Sirens",
+        "Hydra"
+      ],
+      "correct": 0,
+      "fact": "Scylla has six heads and Charybdis is a whirlpool; Odysseus must navigate between them."
+    },
+    {
+      "difficulty": "hard",
+      "question": "Who is the only god to be born from a woman without a father?",
+      "options": [
+        "Athena",
+        "Hephaestus",
+        "Dionysus",
+        "Hermes"
+      ],
+      "correct": 0,
+      "fact": "Athena sprang fully formed from Zeus's head; Hephaestus was born from Hera alone."
+    }
+  ],
+  "norse": [
+    {
+      "difficulty": "easy",
+      "question": "Who is the king of the Norse gods?",
+      "options": [
+        "Odin",
+        "Thor",
+        "Loki",
+        "Heimdall"
+      ],
+      "correct": 0,
+      "fact": "Odin is the All-Father and god of wisdom, war, and death."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of Odin's spear?",
+      "options": [
+        "Gungnir",
+        "Mjolnir",
+        "Draupnir",
+        "Skidbladnir"
+      ],
+      "correct": 0,
+      "fact": "Gungnir never misses its target and always returns to Odin's hand."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the god of thunder?",
+      "options": [
+        "Thor",
+        "Odin",
+        "Loki",
+        "Tyr"
+      ],
+      "correct": 0,
+      "fact": "Thor wields the hammer Mjolnir and rides a chariot pulled by goats."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of Thor's hammer?",
+      "options": [
+        "Mjolnir",
+        "Gungnir",
+        "Draupnir",
+        "Skidbladnir"
+      ],
+      "correct": 0,
+      "fact": "Mjolnir was forged by dwarven brothers and always returns to Thor's hand."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the trickster god?",
+      "options": [
+        "Loki",
+        "Odin",
+        "Thor",
+        "Heimdall"
+      ],
+      "correct": 0,
+      "fact": "Loki is known for his cunning and shape-shifting abilities."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the world tree?",
+      "options": [
+        "Yggdrasil",
+        "Muspelheim",
+        "Niflheim",
+        "Midgard"
+      ],
+      "correct": 0,
+      "fact": "Yggdrasil connects all nine realms of Norse mythology."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the rainbow bridge?",
+      "options": [
+        "Bifrost",
+        "Asgard",
+        "Vanaheim",
+        "Jotunheim"
+      ],
+      "correct": 0,
+      "fact": "Bifrost connects Midgard (Earth) to Asgard (home of the gods)."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the god of war and wisdom?",
+      "options": [
+        "Odin",
+        "Thor",
+        "Tyr",
+        "Heimdall"
+      ],
+      "correct": 0,
+      "fact": "Odin sacrificed his eye for wisdom at the Well of Mimir."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the nine realms?",
+      "options": [
+        "The Nine Worlds",
+        "The Realms of Yggdrasil",
+        "The Norse Kingdoms",
+        "The Divine Domains"
+      ],
+      "correct": 0,
+      "fact": "The nine realms are connected by the branches of Yggdrasil."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the goddess of love and beauty?",
+      "options": [
+        "Freyja",
+        "Frigg",
+        "Sif",
+        "Idun"
+      ],
+      "correct": 0,
+      "fact": "Freyja is associated with fertility, love, and war."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the hall of the slain?",
+      "options": [
+        "Valhalla",
+        "Asgard",
+        "Muspelheim",
+        "Niflheim"
+      ],
+      "correct": 0,
+      "fact": "Valhalla is where warriors who die in battle go to feast and fight."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the gatekeeper of Asgard?",
+      "options": [
+        "Heimdall",
+        "Odin",
+        "Thor",
+        "Loki"
+      ],
+      "correct": 0,
+      "fact": "Heimdall guards the Bifrost and never sleeps."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the end of the world?",
+      "options": [
+        "Ragnarok",
+        "Gotterdammerung",
+        "Twilight of the Gods",
+        "Doom of the Powers"
+      ],
+      "correct": 0,
+      "fact": "Ragnarok is the prophesied destruction and rebirth of the Norse cosmos."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the goddess of the hearth and home?",
+      "options": [
+        "Frigg",
+        "Freyja",
+        "Sif",
+        "Idun"
+      ],
+      "correct": 0,
+      "fact": "Frigg is the wife of Odin and mother of many gods."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the frost giants' realm?",
+      "options": [
+        "Jotunheim",
+        "Muspelheim",
+        "Niflheim",
+        "Vanaheim"
+      ],
+      "correct": 0,
+      "fact": "Jotunheim is home to the giants who oppose the gods."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the god of one-handed warriors?",
+      "options": [
+        "Tyr",
+        "Odin",
+        "Thor",
+        "Heimdall"
+      ],
+      "correct": 0,
+      "fact": "Tyr lost his hand binding the wolf Fenrir."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the wolf that will devour the sun?",
+      "options": [
+        "Fenrir",
+        "Jormungandr",
+        "Surt",
+        "Nidhogg"
+      ],
+      "correct": 0,
+      "fact": "Fenrir is bound by the magical chain Gleipnir until Ragnarok."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the serpent that encircles Midgard?",
+      "options": [
+        "Jormungandr",
+        "Fenrir",
+        "Surt",
+        "Nidhogg"
+      ],
+      "correct": 0,
+      "fact": "Jormungandr is so large it holds its own tail in its mouth."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the god of poetry and inspiration?",
+      "options": [
+        "Odin",
+        "Bragi",
+        "Thor",
+        "Heimdall"
+      ],
+      "correct": 0,
+      "fact": "Bragi is the god of skalds (poets) and eloquence."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the mead of poetry?",
+      "options": [
+        "Mead of Suttung",
+        "Mead of Odin",
+        "Mead of Inspiration",
+        "Mead of the Gods"
+      ],
+      "correct": 0,
+      "fact": "Odin stole this mead to give inspiration to gods and men."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the goddess of youth and apples?",
+      "options": [
+        "Idun",
+        "Frigg",
+        "Freyja",
+        "Sif"
+      ],
+      "correct": 0,
+      "fact": "Idun guards the apples that keep the gods young."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the dragon that gnaws at Yggdrasil's roots?",
+      "options": [
+        "Nidhogg",
+        "Jormungandr",
+        "Fenrir",
+        "Surt"
+      ],
+      "correct": 0,
+      "fact": "Nidhogg is a serpent or dragon that constantly gnaws at the world tree."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the god of the sea?",
+      "options": [
+        "Aegir",
+        "Njord",
+        "Ran",
+        "Ymir"
+      ],
+      "correct": 0,
+      "fact": "Aegir is a giant who brews beer for the gods."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the ship made of fingernails?",
+      "options": [
+        "Naglfar",
+        "Skidbladnir",
+        "Hringhorni",
+        "Argosy"
+      ],
+      "correct": 0,
+      "fact": "Naglfar will carry the giants to Asgard during Ragnarok."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the god of wind?",
+      "options": [
+        "Stribog",
+        "Vayu",
+        "Aeolus",
+        "Njord"
+      ],
+      "correct": 0,
+      "fact": "In Norse mythology, the winds are controlled by the giant Thrym."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the dwarven realm?",
+      "options": [
+        "Svartalfheim",
+        "Muspelheim",
+        "Niflheim",
+        "Vanaheim"
+      ],
+      "correct": 0,
+      "fact": "Svartalfheim is home to the dwarves who craft magical items."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who are the Valkyries?",
+      "options": [
+        "Choosers of the slain",
+        "Warrior maidens",
+        "Odin's servants",
+        "All of the above"
+      ],
+      "correct": 3,
+      "fact": "Valkyries choose which warriors die in battle and take them to Valhalla."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of Odin's ravens?",
+      "options": [
+        "Huginn and Muninn",
+        "Odin's Eyes",
+        "Thought and Memory",
+        "All of the above"
+      ],
+      "correct": 3,
+      "fact": "Huginn (Thought) and Muninn (Memory) fly around the world bringing news to Odin."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the god of fire?",
+      "options": [
+        "Loki",
+        "Surt",
+        "Muspel",
+        "Agni"
+      ],
+      "correct": 0,
+      "fact": "Loki is associated with fire and chaos in Norse mythology."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the fire giant?",
+      "options": [
+        "Surt",
+        "Muspel",
+        "Loki",
+        "Fenrir"
+      ],
+      "correct": 0,
+      "fact": "Surt will lead the fire giants against the gods during Ragnarok."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the god of wealth and fertility?",
+      "options": [
+        "Freyr",
+        "Freyja",
+        "Njord",
+        "Odin"
+      ],
+      "correct": 0,
+      "fact": "Freyr is the god of summer, sunshine, and prosperity."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of Freyr's magical sword?",
+      "options": [
+        "Sumarbrander",
+        "Sword of Summer",
+        "Bright Blade",
+        "Golden Sword"
+      ],
+      "correct": 0,
+      "fact": "Freyr gave away his sword for love, leaving him unarmed at Ragnarok."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the goddess of the sea?",
+      "options": [
+        "Ran",
+        "Aegir",
+        "Njord",
+        "Ymir"
+      ],
+      "correct": 0,
+      "fact": "Ran is a giantess who drags sailors to the bottom of the sea."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the primordial giant?",
+      "options": [
+        "Ymir",
+        "Odin",
+        "Loki",
+        "Surt"
+      ],
+      "correct": 0,
+      "fact": "Ymir's body was used to create the world after his death."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the god of justice and contracts?",
+      "options": [
+        "Forseti",
+        "Tyr",
+        "Odin",
+        "Thor"
+      ],
+      "correct": 0,
+      "fact": "Forseti is known for his fair judgments and ability to settle disputes."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the hall of the dishonored dead?",
+      "options": [
+        "Hel",
+        "Niflheim",
+        "Muspelheim",
+        "Jotunheim"
+      ],
+      "correct": 0,
+      "fact": "Hel is ruled by the goddess Hel and is a cold, miserable place."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the ruler of Hel?",
+      "options": [
+        "Hel",
+        "Loki",
+        "Odin",
+        "Fenrir"
+      ],
+      "correct": 0,
+      "fact": "Hel is the daughter of Loki and rules over the dishonored dead."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the Well of Wisdom?",
+      "options": [
+        "Well of Mimir",
+        "Well of Odin",
+        "Well of Knowledge",
+        "Well of Truth"
+      ],
+      "correct": 0,
+      "fact": "Odin sacrificed his eye to drink from the Well of Mimir."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the guardian of the Well of Mimir?",
+      "options": [
+        "Mimir",
+        "Odin",
+        "Heimdall",
+        "Yggdrasil"
+      ],
+      "correct": 0,
+      "fact": "Mimir is a wise giant who guards the well and advises the gods."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the sacred spring?",
+      "options": [
+        "Urd's Well",
+        "Mimir's Well",
+        "Odin's Well",
+        "Yggdrasil's Well"
+      ],
+      "correct": 0,
+      "fact": "Urd's Well is where the Norns water Yggdrasil."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who are the Norns?",
+      "options": [
+        "Fate weavers",
+        "Goddesses of destiny",
+        "Urd, Verdandi, Skuld",
+        "All of the above"
+      ],
+      "correct": 3,
+      "fact": "The Norns control the fate of all beings, including the gods."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the elven realm?",
+      "options": [
+        "Alfheim",
+        "Vanaheim",
+        "Svartalfheim",
+        "Muspelheim"
+      ],
+      "correct": 0,
+      "fact": "Alfheim is home to the light elves in Norse mythology."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the god of healing?",
+      "options": [
+        "Eir",
+        "Frigg",
+        "Idun",
+        "Sif"
+      ],
+      "correct": 0,
+      "fact": "Eir is a goddess associated with medicine and healing."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of Thor's wife?",
+      "options": [
+        "Sif",
+        "Frigg",
+        "Freyja",
+        "Idun"
+      ],
+      "correct": 0,
+      "fact": "Sif is known for her golden hair and is the mother of Thor's children."
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is the name of Odin's missing eye?",
+      "options": [
+        "Left eye",
+        "Right eye",
+        "Both eyes",
+        "One eye"
+      ],
+      "correct": 0,
+      "fact": "Odin sacrificed his left eye to drink from the Well of Mimir."
+    },
+    {
+      "difficulty": "medium",
+      "question": "Who is the giant who holds up the sky?",
+      "options": [
+        "Atlas",
+        "Thrym",
+        "Jotun",
+        "Surt"
+      ],
+      "correct": 0,
+      "fact": "In Norse mythology, the sky is held up by the dwarves, not a giant."
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is the name of the chain that binds Fenrir?",
+      "options": [
+        "Gleipnir",
+        "Leyding",
+        "Dromi",
+        "Binding"
+      ],
+      "correct": 0,
+      "fact": "Gleipnir is made from impossible things like the sound of a cat's footfall."
+    },
+    {
+      "difficulty": "medium",
+      "question": "Who is the giant that will lead the fire giants at Ragnarok?",
+      "options": [
+        "Surt",
+        "Muspel",
+        "Loki",
+        "Fenrir"
+      ],
+      "correct": 0,
+      "fact": "Surt will emerge from Muspelheim with a flaming sword."
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is the name of the bridge that will break at Ragnarok?",
+      "options": [
+        "Bifrost",
+        "Rainbow Bridge",
+        "Asgard Bridge",
+        "Heaven's Bridge"
+      ],
+      "correct": 0,
+      "fact": "Bifrost will break under the weight of the giants crossing it."
+    },
+    {
+      "difficulty": "medium",
+      "question": "Who is the giant who will fight Heimdall at Ragnarok?",
+      "options": [
+        "Loki",
+        "Surt",
+        "Fenrir",
+        "Jormungandr"
+      ],
+      "correct": 0,
+      "fact": "Heimdall and Loki will kill each other at Ragnarok."
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is the name of the new world after Ragnarok?",
+      "options": [
+        "New Midgard",
+        "New World",
+        "Renewed Earth",
+        "Second Creation"
+      ],
+      "correct": 0,
+      "fact": "After Ragnarok, a new world will emerge from the sea."
+    },
+    {
+      "difficulty": "medium",
+      "question": "Who will survive Ragnarok?",
+      "options": [
+        "Modi and Magni",
+        "Vidar and Vali",
+        "Baldr and Hod",
+        "All of the above"
+      ],
+      "correct": 3,
+      "fact": "Several gods and humans will survive Ragnarok to repopulate the world."
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is the name of Thor's belt?",
+      "options": [
+        "Megingjord",
+        "Belt of Strength",
+        "Power Belt",
+        "Magical Belt"
+      ],
+      "correct": 0,
+      "fact": "Megingjord doubles Thor's strength when worn."
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is the name of Thor's gloves?",
+      "options": [
+        "Jarngreipr",
+        "Iron Gloves",
+        "Grip Gloves",
+        "Magical Gloves"
+      ],
+      "correct": 0,
+      "fact": "Jarngreipr are iron gloves needed to wield Mjolnir."
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is the name of the mead that grants poetry?",
+      "options": [
+        "Mead of Suttung",
+        "Mead of Odin",
+        "Mead of Inspiration",
+        "Mead of Wisdom"
+      ],
+      "correct": 0,
+      "fact": "Odin stole this mead from the giant Suttung to give to gods and men."
+    },
+    {
+      "difficulty": "hard",
+      "question": "How many times did Odin hang himself?",
+      "options": [
+        "Nine nights",
+        "Seven nights",
+        "Three nights",
+        "One night"
+      ],
+      "correct": 0,
+      "fact": "Odin hung himself on Yggdrasil for nine nights to gain knowledge of the runes."
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is the name of the dwarves who forged Mjolnir?",
+      "options": [
+        "Sindri and Brokkr",
+        "Ivaldi's sons",
+        "Dwarven brothers",
+        "Craft masters"
+      ],
+      "correct": 0,
+      "fact": "Sindri and Brokkr created Mjolnir in a competition with Ivaldi's sons."
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is the name of the ship made of fingernails?",
+      "options": [
+        "Naglfar",
+        "Hringhorni",
+        "Skidbladnir",
+        "Argosy"
+      ],
+      "correct": 0,
+      "fact": "Naglfar is built from the fingernails of the dead and carries giants to Asgard."
+    },
+    {
+      "difficulty": "hard",
+      "question": "Who is the giant whose death will cause the world to flood?",
+      "options": [
+        "Ymir",
+        "Thrym",
+        "Jotun",
+        "Surt"
+      ],
+      "correct": 0,
+      "fact": "Ymir's blood will flood the world when he is killed."
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is the name of the three-rooted tree?",
+      "options": [
+        "Yggdrasil",
+        "World Tree",
+        "Sacred Tree",
+        "Tree of Life"
+      ],
+      "correct": 0,
+      "fact": "Yggdrasil has three roots reaching to Asgard, Jotunheim, and Muspelheim."
+    },
+    {
+      "difficulty": "hard",
+      "question": "Who is the squirrel that runs up and down Yggdrasil?",
+      "options": [
+        "Ratatosk",
+        "Squirrel",
+        "Messenger",
+        "Tree Runner"
+      ],
+      "correct": 0,
+      "fact": "Ratatosk carries insults between the eagle at the top and Nidhogg at the roots."
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is the name of the hall where warriors feast?",
+      "options": [
+        "Valhalla",
+        "Asgard",
+        "Muspelheim",
+        "Niflheim"
+      ],
+      "correct": 0,
+      "fact": "Valhalla has 540 doors and can hold all the warriors who died in battle."
+    },
+    {
+      "difficulty": "hard",
+      "question": "Who is the gatekeeper of Valhalla?",
+      "options": [
+        "Heimdall",
+        "Odin",
+        "Thor",
+        "Loki"
+      ],
+      "correct": 0,
+      "fact": "Heimdall guards the Bifrost and Valhalla's entrance."
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is the name of the final battle?",
+      "options": [
+        "Ragnarok",
+        "Gotterdammerung",
+        "Twilight of the Gods",
+        "End of Days"
+      ],
+      "correct": 0,
+      "fact": "Ragnarok is the prophesied destruction and rebirth of the Norse cosmos."
+    }
+  ],
+  "egyptian": [
+    {
+      "difficulty": "easy",
+      "question": "Who is the king of the Egyptian gods?",
+      "options": [
+        "Ra",
+        "Osiris",
+        "Amun",
+        "Horus"
+      ],
+      "correct": 0,
+      "fact": "Ra is the sun god and travels across the sky in his solar barque each day."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the Egyptian underworld?",
+      "options": [
+        "Duat",
+        "Aaru",
+        "Ament",
+        "Tuat"
+      ],
+      "correct": 0,
+      "fact": "Duat is the realm of the dead where souls are judged by Osiris."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the god of the afterlife?",
+      "options": [
+        "Osiris",
+        "Ra",
+        "Anubis",
+        "Thoth"
+      ],
+      "correct": 0,
+      "fact": "Osiris was murdered and resurrected, becoming lord of the dead."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the god of mummification?",
+      "options": [
+        "Anubis",
+        "Osiris",
+        "Thoth",
+        "Khenti-Amentiu"
+      ],
+      "correct": 0,
+      "fact": "Anubis is depicted as a jackal and invented mummification."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the goddess of the sky?",
+      "options": [
+        "Nut",
+        "Geb",
+        "Shu",
+        "Tefnut"
+      ],
+      "correct": 0,
+      "fact": "Nut is arched over Geb (the earth) and represents the sky."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the god of the earth?",
+      "options": [
+        "Geb",
+        "Nut",
+        "Shu",
+        "Tefnut"
+      ],
+      "correct": 0,
+      "fact": "Geb is the earth god and lies beneath Nut, the sky goddess."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the god of air?",
+      "options": [
+        "Shu",
+        "Tefnut",
+        "Geb",
+        "Nut"
+      ],
+      "correct": 0,
+      "fact": "Shu is the god of air and light, separating Nut from Geb."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the goddess of moisture?",
+      "options": [
+        "Tefnut",
+        "Shu",
+        "Nut",
+        "Geb"
+      ],
+      "correct": 0,
+      "fact": "Tefnut is the goddess of moisture and rain."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the god of wisdom and writing?",
+      "options": [
+        "Thoth",
+        "Seshat",
+        "Khonsu",
+        "Ptah"
+      ],
+      "correct": 0,
+      "fact": "Thoth is depicted with the head of an ibis and invented writing."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the goddess of writing?",
+      "options": [
+        "Seshat",
+        "Thoth",
+        "Sekhmet",
+        "Bastet"
+      ],
+      "correct": 0,
+      "fact": "Seshat is the female counterpart to Thoth and records deeds."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the god of creation?",
+      "options": [
+        "Ptah",
+        "Amun",
+        "Khnum",
+        "Aten"
+      ],
+      "correct": 0,
+      "fact": "Ptah created all things through his thoughts and words."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the hidden god?",
+      "options": [
+        "Amun",
+        "Ptah",
+        "Ra",
+        "Aten"
+      ],
+      "correct": 0,
+      "fact": "Amun is often combined with Ra to form Amun-Ra, the supreme god."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the god of the sun disk?",
+      "options": [
+        "Aten",
+        "Ra",
+        "Khepri",
+        "Amun"
+      ],
+      "correct": 0,
+      "fact": "Aten was worshipped as the sole god during Akhenaten's reign."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the scarab beetle god?",
+      "options": [
+        "Khepri",
+        "Khnum",
+        "Aten",
+        "Ptah"
+      ],
+      "correct": 0,
+      "fact": "Khepri represents rebirth and resurrection each morning."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the ram-headed god of creation?",
+      "options": [
+        "Khnum",
+        "Khepri",
+        "Ptah",
+        "Amun"
+      ],
+      "correct": 0,
+      "fact": "Khnum is the potter god who shapes bodies on his wheel."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the goddess of love and beauty?",
+      "options": [
+        "Hathor",
+        "Bastet",
+        "Sekhmet",
+        "Isis"
+      ],
+      "correct": 0,
+      "fact": "Hathor is also the goddess of music, dance, and fertility."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the cat goddess?",
+      "options": [
+        "Bastet",
+        "Hathor",
+        "Sekhmet",
+        "Isis"
+      ],
+      "correct": 0,
+      "fact": "Bastet is depicted as a cat and represents protection and joy."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the lioness goddess of plague?",
+      "options": [
+        "Sekhmet",
+        "Bastet",
+        "Hathor",
+        "Isis"
+      ],
+      "correct": 0,
+      "fact": "Sekhmet is a fierce warrior goddess and the eye of Ra."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the goddess of magic?",
+      "options": [
+        "Isis",
+        "Hathor",
+        "Bastet",
+        "Sekhmet"
+      ],
+      "correct": 0,
+      "fact": "Isis is the mother of Horus and wife of Osiris."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the god of the moon?",
+      "options": [
+        "Khonsu",
+        "Thoth",
+        "Iah",
+        "Yah"
+      ],
+      "correct": 0,
+      "fact": "Khonsu is the moon god and son of Amun and Mut."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the god of the Nile?",
+      "options": [
+        "Hapi",
+        "Osiris",
+        "Khnum",
+        "Anuket"
+      ],
+      "correct": 0,
+      "fact": "Hapi is depicted as a fat man with breasts, representing abundance."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the god of chaos?",
+      "options": [
+        "Set",
+        "Apophis",
+        "Isfet",
+        "Bes"
+      ],
+      "correct": 0,
+      "fact": "Set is the god of chaos, storms, and the desert."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the serpent of chaos?",
+      "options": [
+        "Apophis",
+        "Set",
+        "Isfet",
+        "Bes"
+      ],
+      "correct": 0,
+      "fact": "Apophis is the great serpent who tries to devour Ra each night."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the god of war and hunting?",
+      "options": [
+        "Montu",
+        "Horus",
+        "Set",
+        "Sobek"
+      ],
+      "correct": 0,
+      "fact": "Montu is a falcon-headed god of war and victory."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the falcon-headed god?",
+      "options": [
+        "Horus",
+        "Montu",
+        "Ra",
+        "Khepri"
+      ],
+      "correct": 0,
+      "fact": "Horus is the son of Osiris and Isis, and represents the sky."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the god of the Nile crocodile?",
+      "options": [
+        "Sobek",
+        "Taweret",
+        "Bes",
+        "Khenti-Amentiu"
+      ],
+      "correct": 0,
+      "fact": "Sobek is a crocodile god associated with fertility and the Nile."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the hippopotamus goddess?",
+      "options": [
+        "Taweret",
+        "Anuket",
+        "Nephthys",
+        "Mut"
+      ],
+      "correct": 0,
+      "fact": "Taweret is a protective goddess associated with childbirth."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the dwarf god?",
+      "options": [
+        "Bes",
+        "Ptah",
+        "Khnum",
+        "Aten"
+      ],
+      "correct": 0,
+      "fact": "Bes is a protective god of children and childbirth."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the goddess of the sky in some traditions?",
+      "options": [
+        "Mut",
+        "Nut",
+        "Hathor",
+        "Isis"
+      ],
+      "correct": 0,
+      "fact": "Mut is the mother goddess and wife of Amun."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the goddess of the night?",
+      "options": [
+        "Nephthys",
+        "Nut",
+        "Mut",
+        "Isis"
+      ],
+      "correct": 0,
+      "fact": "Nephthys is the sister of Osiris and Set, and protects the dead."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the goddess of the Nile's flood?",
+      "options": [
+        "Anuket",
+        "Hapi",
+        "Tefnut",
+        "Isis"
+      ],
+      "correct": 0,
+      "fact": "Anuket is the goddess of the Nile's inundation and abundance."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the judgment of the dead?",
+      "options": [
+        "Weighing of the Heart",
+        "Trial of Osiris",
+        "Judgment of Ra",
+        "Test of the Dead"
+      ],
+      "correct": 0,
+      "fact": "The heart is weighed against the feather of Ma'at to determine worthiness."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the goddess of truth and justice?",
+      "options": [
+        "Ma'at",
+        "Isis",
+        "Hathor",
+        "Sekhmet"
+      ],
+      "correct": 0,
+      "fact": "Ma'at represents cosmic order, truth, and justice."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the sacred scarab?",
+      "options": [
+        "Khepri",
+        "Scarab",
+        "Beetle",
+        "Sacred Insect"
+      ],
+      "correct": 0,
+      "fact": "The scarab represents resurrection and the cycle of life."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the god of the afterlife's judgment?",
+      "options": [
+        "Osiris",
+        "Anubis",
+        "Thoth",
+        "Ammit"
+      ],
+      "correct": 0,
+      "fact": "Osiris judges the souls of the dead in the Duat."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the devourer of the unworthy?",
+      "options": [
+        "Ammit",
+        "Apophis",
+        "Sekhmet",
+        "Set"
+      ],
+      "correct": 0,
+      "fact": "Ammit is part lion, hippopotamus, and crocodile, devouring unworthy hearts."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the god of the dead's guardian?",
+      "options": [
+        "Anubis",
+        "Osiris",
+        "Thoth",
+        "Khenti-Amentiu"
+      ],
+      "correct": 0,
+      "fact": "Anubis guards the tombs and mummified bodies of the dead."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the first pharaoh?",
+      "options": [
+        "Narmer",
+        "Khufu",
+        "Menkaure",
+        "Pepi"
+      ],
+      "correct": 0,
+      "fact": "Narmer unified Upper and Lower Egypt around 3100 BCE."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who built the Great Pyramid?",
+      "options": [
+        "Khufu",
+        "Khafre",
+        "Menkaure",
+        "Pepi"
+      ],
+      "correct": 0,
+      "fact": "Khufu built the Great Pyramid of Giza during the Old Kingdom."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the sun god's boat?",
+      "options": [
+        "Solar Barque",
+        "Boat of Ra",
+        "Celestial Vessel",
+        "Divine Barque"
+      ],
+      "correct": 0,
+      "fact": "Ra travels in his solar barque across the sky each day and through the Duat each night."
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is the name of the sacred scarab's transformation?",
+      "options": [
+        "Resurrection",
+        "Rebirth",
+        "Transformation",
+        "Renewal"
+      ],
+      "correct": 0,
+      "fact": "The scarab represents the daily resurrection of the sun god Ra."
+    },
+    {
+      "difficulty": "medium",
+      "question": "Who is the god of the Nile's flood?",
+      "options": [
+        "Hapi",
+        "Osiris",
+        "Khnum",
+        "Anuket"
+      ],
+      "correct": 0,
+      "fact": "Hapi brings the annual inundation that fertilizes the land."
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is the name of the journey through the underworld?",
+      "options": [
+        "Duat Journey",
+        "Afterlife Journey",
+        "Underworld Journey",
+        "Divine Journey"
+      ],
+      "correct": 0,
+      "fact": "The deceased must journey through the Duat to reach the afterlife."
+    },
+    {
+      "difficulty": "medium",
+      "question": "Who is the guardian of the dead?",
+      "options": [
+        "Anubis",
+        "Osiris",
+        "Thoth",
+        "Ammit"
+      ],
+      "correct": 0,
+      "fact": "Anubis invented mummification and guards the tombs."
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is the name of the sacred text?",
+      "options": [
+        "Book of the Dead",
+        "Book of Life",
+        "Sacred Scrolls",
+        "Divine Text"
+      ],
+      "correct": 0,
+      "fact": "The Book of the Dead contains spells and instructions for the afterlife."
+    },
+    {
+      "difficulty": "medium",
+      "question": "Who is the god of chaos and disorder?",
+      "options": [
+        "Set",
+        "Apophis",
+        "Isfet",
+        "Bes"
+      ],
+      "correct": 0,
+      "fact": "Set represents chaos, but is not purely evil; he also protects Ra."
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is the name of the serpent of chaos?",
+      "options": [
+        "Apophis",
+        "Set",
+        "Isfet",
+        "Bes"
+      ],
+      "correct": 0,
+      "fact": "Apophis tries to devour Ra each night, but is defeated by Set."
+    },
+    {
+      "difficulty": "medium",
+      "question": "Who is the god of the Nile crocodile?",
+      "options": [
+        "Sobek",
+        "Taweret",
+        "Bes",
+        "Khenti-Amentiu"
+      ],
+      "correct": 0,
+      "fact": "Sobek is a crocodile god associated with fertility and the Nile."
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is the name of the hippopotamus goddess?",
+      "options": [
+        "Taweret",
+        "Anuket",
+        "Nephthys",
+        "Mut"
+      ],
+      "correct": 0,
+      "fact": "Taweret is a protective goddess of childbirth and fertility."
+    },
+    {
+      "difficulty": "medium",
+      "question": "Who is the god of the dead's judgment?",
+      "options": [
+        "Osiris",
+        "Anubis",
+        "Thoth",
+        "Ammit"
+      ],
+      "correct": 0,
+      "fact": "Osiris judges the souls of the dead in the Hall of Two Truths."
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is the name of the judgment scale?",
+      "options": [
+        "Scales of Ma'at",
+        "Scales of Justice",
+        "Scales of Truth",
+        "Scales of the Dead"
+      ],
+      "correct": 0,
+      "fact": "The heart is weighed against the feather of Ma'at on the scales."
+    },
+    {
+      "difficulty": "hard",
+      "question": "What happens to the unworthy heart?",
+      "options": [
+        "Devoured by Ammit",
+        "Destroyed",
+        "Condemned",
+        "Punished"
+      ],
+      "correct": 0,
+      "fact": "Ammit, the devourer, eats the hearts of the unworthy."
+    },
+    {
+      "difficulty": "hard",
+      "question": "Who is the god of the sun's journey?",
+      "options": [
+        "Ra",
+        "Khepri",
+        "Aten",
+        "Amun"
+      ],
+      "correct": 0,
+      "fact": "Ra travels in his solar barque across the sky each day."
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is the name of the sun god's boat?",
+      "options": [
+        "Solar Barque",
+        "Boat of Ra",
+        "Celestial Vessel",
+        "Divine Barque"
+      ],
+      "correct": 0,
+      "fact": "The solar barque is called the 'Mandjet' in the morning and 'Mesektet' at night."
+    },
+    {
+      "difficulty": "hard",
+      "question": "Who is the god of the Nile's inundation?",
+      "options": [
+        "Hapi",
+        "Osiris",
+        "Khnum",
+        "Anuket"
+      ],
+      "correct": 0,
+      "fact": "Hapi is depicted as a fat man with breasts, representing abundance."
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is the name of the sacred mountain?",
+      "options": [
+        "Benben",
+        "Mount Meru",
+        "Mount Kailash",
+        "Mount Olympus"
+      ],
+      "correct": 0,
+      "fact": "Benben is the primordial mound that emerged from the waters of chaos."
+    },
+    {
+      "difficulty": "hard",
+      "question": "Who is the god of creation?",
+      "options": [
+        "Ptah",
+        "Amun",
+        "Khnum",
+        "Aten"
+      ],
+      "correct": 0,
+      "fact": "Ptah created all things through his thoughts and words."
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is the name of the primordial waters?",
+      "options": [
+        "Nun",
+        "Nuun",
+        "Waters of Chaos",
+        "Primordial Waters"
+      ],
+      "correct": 0,
+      "fact": "Nun is the primordial ocean of chaos from which all life emerged."
+    },
+    {
+      "difficulty": "hard",
+      "question": "Who is the god of the air?",
+      "options": [
+        "Shu",
+        "Tefnut",
+        "Geb",
+        "Nut"
+      ],
+      "correct": 0,
+      "fact": "Shu is the god of air and light, separating Nut from Geb."
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is the name of the sacred eye?",
+      "options": [
+        "Eye of Ra",
+        "Eye of Horus",
+        "Wedjat Eye",
+        "All of the above"
+      ],
+      "correct": 3,
+      "fact": "The Eye of Ra/Horus is a symbol of protection and wholeness."
+    }
+  ],
+  "tolkien": [
+    {
+      "difficulty": "easy",
+      "question": "Who is the creator of Middle-earth?",
+      "options": [
+        "Iluvatar",
+        "Manwe",
+        "Varda",
+        "Yavanna"
+      ],
+      "correct": 0,
+      "fact": "Iluvatar is the supreme being who created all things through the Ainur."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the Elvish language?",
+      "options": [
+        "Quenya",
+        "Sindarin",
+        "Elvish",
+        "Noldorin"
+      ],
+      "correct": 0,
+      "fact": "Quenya and Sindarin are the two main Elvish languages."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the Lord of the Rings?",
+      "options": [
+        "Sauron",
+        "Gandalf",
+        "Elrond",
+        "Galadriel"
+      ],
+      "correct": 0,
+      "fact": "Sauron created the One Ring to control all other rings."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the One Ring?",
+      "options": [
+        "The One Ring",
+        "The Master Ring",
+        "The Ring of Power",
+        "The Dark Ring"
+      ],
+      "correct": 0,
+      "fact": "The One Ring is the most powerful of all the Rings of Power."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the main character of The Lord of the Rings?",
+      "options": [
+        "Frodo Baggins",
+        "Bilbo Baggins",
+        "Aragorn",
+        "Gandalf"
+      ],
+      "correct": 0,
+      "fact": "Frodo is a hobbit who must destroy the One Ring."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of Frodo's uncle?",
+      "options": [
+        "Bilbo Baggins",
+        "Pippin",
+        "Merry",
+        "Sam"
+      ],
+      "correct": 0,
+      "fact": "Bilbo is Frodo's uncle and the protagonist of The Hobbit."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the wizard?",
+      "options": [
+        "Gandalf",
+        "Saruman",
+        "Radagast",
+        "Alatar"
+      ],
+      "correct": 0,
+      "fact": "Gandalf is a wizard sent by the Valar to help defeat Sauron."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of Gandalf's sword?",
+      "options": [
+        "Glamdring",
+        "Sting",
+        "Anduril",
+        "Narsil"
+      ],
+      "correct": 0,
+      "fact": "Glamdring is an Elven sword that glows when orcs are near."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the ranger who becomes king?",
+      "options": [
+        "Aragorn",
+        "Boromir",
+        "Legolas",
+        "Gimli"
+      ],
+      "correct": 0,
+      "fact": "Aragorn is the heir of Isildur and becomes king of Gondor and Arnor."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of Aragorn's sword?",
+      "options": [
+        "Anduril",
+        "Glamdring",
+        "Sting",
+        "Narsil"
+      ],
+      "correct": 0,
+      "fact": "Anduril is reforged from the shards of Narsil, the sword of Elendil."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the elf archer?",
+      "options": [
+        "Legolas",
+        "Tauriel",
+        "Thranduil",
+        "Elrond"
+      ],
+      "correct": 0,
+      "fact": "Legolas is a member of the Fellowship and an excellent archer."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the dwarf?",
+      "options": [
+        "Gimli",
+        "Thorin",
+        "Balin",
+        "Dwalin"
+      ],
+      "correct": 0,
+      "fact": "Gimli is a member of the Fellowship and son of Gloin."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the Shire?",
+      "options": [
+        "The Shire",
+        "Hobbiton",
+        "The Shire of Hobbits",
+        "Hobbit Land"
+      ],
+      "correct": 0,
+      "fact": "The Shire is the homeland of the hobbits in the northwest of Middle-earth."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the Dark Lord?",
+      "options": [
+        "Sauron",
+        "Morgoth",
+        "Balrog",
+        "Witch-king"
+      ],
+      "correct": 0,
+      "fact": "Sauron is the main antagonist of The Lord of the Rings."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of Sauron's fortress?",
+      "options": [
+        "Barad-dur",
+        "Minas Morgul",
+        "Orthanc",
+        "Angband"
+      ],
+      "correct": 0,
+      "fact": "Barad-dur is the great tower where Sauron dwells."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the steward of Gondor?",
+      "options": [
+        "Denethor",
+        "Aragorn",
+        "Boromir",
+        "Faramir"
+      ],
+      "correct": 0,
+      "fact": "Denethor is the steward of Gondor and father of Boromir and Faramir."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the capital of Gondor?",
+      "options": [
+        "Minas Tirith",
+        "Minas Morgul",
+        "Osgiliath",
+        "Pelargir"
+      ],
+      "correct": 0,
+      "fact": "Minas Tirith is the capital and greatest city of Gondor."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the capital of Rohan?",
+      "options": [
+        "Edoras",
+        "Rohan",
+        "Meduseld",
+        "Helm's Deep"
+      ],
+      "correct": 0,
+      "fact": "Edoras is the capital of Rohan, home of the Rohirrim."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the king of Rohan?",
+      "options": [
+        "Theoden",
+        "Eomer",
+        "Grimbold",
+        "Denethor"
+      ],
+      "correct": 0,
+      "fact": "Theoden is the king of Rohan and leader of the Rohirrim."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of Theoden's niece?",
+      "options": [
+        "Eowyn",
+        "Arwen",
+        "Galadriel",
+        "Tauriel"
+      ],
+      "correct": 0,
+      "fact": "Eowyn is the niece of Theoden and a skilled warrior."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the elf princess?",
+      "options": [
+        "Arwen",
+        "Galadriel",
+        "Tauriel",
+        "Eowyn"
+      ],
+      "correct": 0,
+      "fact": "Arwen is the daughter of Elrond and falls in love with Aragorn."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the lord of Rivendell?",
+      "options": [
+        "Elrond",
+        "Galadriel",
+        "Thranduil",
+        "Legolas"
+      ],
+      "correct": 0,
+      "fact": "Elrond is the lord of Rivendell and an ancient elf."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the lady of Lothl\u00f3rien?",
+      "options": [
+        "Galadriel",
+        "Arwen",
+        "Eowyn",
+        "Tauriel"
+      ],
+      "correct": 0,
+      "fact": "Galadriel is the powerful elf-queen of Lothl\u00f3rien."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the mine where the dwarves were destroyed?",
+      "options": [
+        "Moria",
+        "Khazad-dum",
+        "Erebor",
+        "Iron Hills"
+      ],
+      "correct": 0,
+      "fact": "Moria is the ancient dwarf kingdom destroyed by the Balrog."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the Balrog?",
+      "options": [
+        "Durin's Bane",
+        "The Balrog of Morgoth",
+        "The Demon of the Ancient World",
+        "Shadow and Flame"
+      ],
+      "correct": 0,
+      "fact": "The Balrog is a demon of the ancient world that dwells in Moria."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the hobbit gardener?",
+      "options": [
+        "Sam Gamgee",
+        "Frodo Baggins",
+        "Pippin Took",
+        "Merry Brandybuck"
+      ],
+      "correct": 0,
+      "fact": "Sam is Frodo's loyal companion and gardener."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the hobbit from Buckland?",
+      "options": [
+        "Merry Brandybuck",
+        "Pippin Took",
+        "Sam Gamgee",
+        "Frodo Baggins"
+      ],
+      "correct": 0,
+      "fact": "Merry is a member of the Fellowship and a skilled fighter."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the hobbit from the Took family?",
+      "options": [
+        "Pippin Took",
+        "Merry Brandybuck",
+        "Sam Gamgee",
+        "Frodo Baggins"
+      ],
+      "correct": 0,
+      "fact": "Pippin is a member of the Fellowship and becomes a great leader."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the mountain where the Ring must be destroyed?",
+      "options": [
+        "Mount Doom",
+        "Mount Erebor",
+        "Mount Caradhras",
+        "Mount Zirakzigil"
+      ],
+      "correct": 0,
+      "fact": "Mount Doom is where the One Ring was forged and must be destroyed."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the creature that follows the Fellowship?",
+      "options": [
+        "Gollum",
+        "Smeagol",
+        "The Creature",
+        "The Shadow"
+      ],
+      "correct": 0,
+      "fact": "Gollum is obsessed with the Ring and follows the Fellowship."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the forest where the elves live?",
+      "options": [
+        "Lothl\u00f3rien",
+        "Mirkwood",
+        "Fangorn",
+        "Greenwood"
+      ],
+      "correct": 0,
+      "fact": "Lothl\u00f3rien is the golden forest of the elves in the Second Age."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the king of Mirkwood?",
+      "options": [
+        "Thranduil",
+        "Legolas",
+        "Tauriel",
+        "Elrond"
+      ],
+      "correct": 0,
+      "fact": "Thranduil is the king of Mirkwood and father of Legolas."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the ancient dragon?",
+      "options": [
+        "Smaug",
+        "Glaurung",
+        "Ancalagon",
+        "Scatha"
+      ],
+      "correct": 0,
+      "fact": "Smaug is the dragon in The Hobbit and guards the Lonely Mountain."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the Lonely Mountain?",
+      "options": [
+        "Erebor",
+        "The Mountain",
+        "Khazad-dum",
+        "Moria"
+      ],
+      "correct": 0,
+      "fact": "Erebor is the Lonely Mountain where the dwarves live."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the dwarf king?",
+      "options": [
+        "Thorin Oakenshield",
+        "Balin",
+        "Dwalin",
+        "Gimli"
+      ],
+      "correct": 0,
+      "fact": "Thorin is the leader of the dwarves in The Hobbit."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the ancient language of the elves?",
+      "options": [
+        "Elvish",
+        "Quenya",
+        "Sindarin",
+        "Noldorin"
+      ],
+      "correct": 0,
+      "fact": "Quenya is the high Elvish language, while Sindarin is the grey Elvish language."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the creator of the Rings of Power?",
+      "options": [
+        "Celebrimbor",
+        "Sauron",
+        "Elrond",
+        "Galadriel"
+      ],
+      "correct": 0,
+      "fact": "Celebrimbor is the elf-smith who created the Rings of Power."
+    },
+    {
+      "difficulty": "easy",
+      "question": "How many Rings of Power were created?",
+      "options": [
+        "20",
+        "19",
+        "21",
+        "9"
+      ],
+      "correct": 0,
+      "fact": "20 Rings of Power were created: 9 for mortals, 7 for dwarves, and 3 for elves, plus the One Ring."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the sword that Bilbo finds?",
+      "options": [
+        "Sting",
+        "Glamdring",
+        "Anduril",
+        "Narsil"
+      ],
+      "correct": 0,
+      "fact": "Sting is an Elven blade that glows when orcs are near."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the Valar?",
+      "options": [
+        "The Ainur",
+        "The Powers",
+        "The Archangels",
+        "The Gods"
+      ],
+      "correct": 0,
+      "fact": "The Valar are the most powerful of the Ainur and shape the world."
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is the name of the Elven realm in the west?",
+      "options": [
+        "Valinor",
+        "Aman",
+        "Undying Lands",
+        "All of the above"
+      ],
+      "correct": 3,
+      "fact": "Valinor is the realm of the Valar in the Undying Lands."
+    },
+    {
+      "difficulty": "medium",
+      "question": "Who is the creator of the Silmarils?",
+      "options": [
+        "Feanor",
+        "Celebrimbor",
+        "Elrond",
+        "Galadriel"
+      ],
+      "correct": 0,
+      "fact": "Feanor created the Silmarils, three jewels containing the light of the Valar."
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is the name of the dark lord before Sauron?",
+      "options": [
+        "Morgoth",
+        "Melkor",
+        "Sauron",
+        "Balrog"
+      ],
+      "correct": 0,
+      "fact": "Morgoth (Melkor) was the first dark lord and master of Sauron."
+    },
+    {
+      "difficulty": "medium",
+      "question": "Who is the greatest elf warrior?",
+      "options": [
+        "Fingolfin",
+        "Feanor",
+        "Elrond",
+        "Gil-galad"
+      ],
+      "correct": 0,
+      "fact": "Fingolfin challenged Morgoth to single combat."
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is the name of the ancient language of power?",
+      "options": [
+        "Black Speech",
+        "Quenya",
+        "Sindarin",
+        "Valarin"
+      ],
+      "correct": 0,
+      "fact": "The Black Speech was created by Sauron as the language of power."
+    },
+    {
+      "difficulty": "medium",
+      "question": "Who is the last king of Gondor?",
+      "options": [
+        "Aragorn",
+        "Denethor",
+        "Boromir",
+        "Faramir"
+      ],
+      "correct": 0,
+      "fact": "Aragorn becomes the first king of the Reunited Kingdom."
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is the name of the Rohirrim's capital?",
+      "options": [
+        "Edoras",
+        "Rohan",
+        "Meduseld",
+        "Helm's Deep"
+      ],
+      "correct": 0,
+      "fact": "Edoras is built on a hill and contains the Golden Hall Meduseld."
+    },
+    {
+      "difficulty": "medium",
+      "question": "Who is the greatest dwarf king?",
+      "options": [
+        "Durin",
+        "Thorin",
+        "Balin",
+        "Gimli"
+      ],
+      "correct": 0,
+      "fact": "Durin is the first dwarf and founder of Khazad-dum."
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is the name of the dwarf kingdom?",
+      "options": [
+        "Khazad-dum",
+        "Erebor",
+        "Moria",
+        "Iron Hills"
+      ],
+      "correct": 0,
+      "fact": "Khazad-dum is the ancient dwarf kingdom, also called Moria."
+    },
+    {
+      "difficulty": "medium",
+      "question": "Who is the elf who falls in love with Aragorn?",
+      "options": [
+        "Arwen",
+        "Galadriel",
+        "Tauriel",
+        "Eowyn"
+      ],
+      "correct": 0,
+      "fact": "Arwen chooses mortality to be with Aragorn."
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is the name of the Silmarils' theft?",
+      "options": [
+        "Silmarils stolen",
+        "Feanor's theft",
+        "Morgoth's theft",
+        "Theft of the Jewels"
+      ],
+      "correct": 0,
+      "fact": "Morgoth steals the Silmarils and flees to Middle-earth."
+    },
+    {
+      "difficulty": "hard",
+      "question": "Who is the creator of the Rings of Power?",
+      "options": [
+        "Celebrimbor",
+        "Sauron",
+        "Elrond",
+        "Galadriel"
+      ],
+      "correct": 0,
+      "fact": "Celebrimbor created the Rings of Power under Sauron's influence."
+    },
+    {
+      "difficulty": "hard",
+      "question": "How many Rings of Power were created?",
+      "options": [
+        "20",
+        "19",
+        "21",
+        "9"
+      ],
+      "correct": 0,
+      "fact": "20 Rings were made: 9 for mortals, 7 for dwarves, 3 for elves, plus the One Ring."
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is the name of the Balrog's fire?",
+      "options": [
+        "Flame of Udun",
+        "Fire of the Underworld",
+        "Ancient Fire",
+        "Dark Flame"
+      ],
+      "correct": 0,
+      "fact": "The Balrog is a creature of shadow and flame from the First Age."
+    },
+    {
+      "difficulty": "hard",
+      "question": "Who is the last of the Nine Kings?",
+      "options": [
+        "Witch-king of Angmar",
+        "Sauron",
+        "Morgoth",
+        "Balrog"
+      ],
+      "correct": 0,
+      "fact": "The Witch-king is the leader of the Nazgul and Sauron's most powerful servant."
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is the name of the sword that cuts through the Witch-king's armor?",
+      "options": [
+        "Anduril",
+        "Sting",
+        "Glamdring",
+        "Narsil"
+      ],
+      "correct": 0,
+      "fact": "Sting is an Elven blade that glows when orcs are near."
+    },
+    {
+      "difficulty": "hard",
+      "question": "Who is the only one who can destroy the One Ring?",
+      "options": [
+        "Frodo",
+        "Gandalf",
+        "Aragorn",
+        "No one"
+      ],
+      "correct": 0,
+      "fact": "Only the fires of Mount Doom can destroy the Ring."
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is the name of the creature that guards the Mines of Moria?",
+      "options": [
+        "Balrog",
+        "Durin's Bane",
+        "Demon of the Ancient World",
+        "All of the above"
+      ],
+      "correct": 3,
+      "fact": "The Balrog is a creature of shadow and flame from the First Age."
+    },
+    {
+      "difficulty": "hard",
+      "question": "Who is the god of the sea?",
+      "options": [
+        "Ulmo",
+        "Yavanna",
+        "Manwe",
+        "Varda"
+      ],
+      "correct": 0,
+      "fact": "Ulmo is the Vala of the waters and seas."
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is the name of the Valar's realm?",
+      "options": [
+        "Valinor",
+        "Aman",
+        "Undying Lands",
+        "All of the above"
+      ],
+      "correct": 3,
+      "fact": "Valinor is the realm of the Valar in the Undying Lands."
+    }
+  ],
+  "celtic": [
+    {
+      "difficulty": "easy",
+      "question": "Who is the king of the Celtic gods?",
+      "options": [
+        "Dagda",
+        "Lugh",
+        "Nuada",
+        "Oghma"
+      ],
+      "correct": 0,
+      "fact": "Dagda is the father of the gods and god of fertility and magic."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the Celtic underworld?",
+      "options": [
+        "Tir na Nog",
+        "Mag Mell",
+        "Otherworld",
+        "Annwn"
+      ],
+      "correct": 0,
+      "fact": "Tir na Nog is the land of youth and eternal happiness."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the god of war?",
+      "options": [
+        "Badb",
+        "Macha",
+        "Morrigu",
+        "Scathach"
+      ],
+      "correct": 0,
+      "fact": "Badb is one of the three aspects of the Morrigu, goddess of war."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the goddess of war and fate?",
+      "options": [
+        "Morrigu",
+        "Badb",
+        "Macha",
+        "Scathach"
+      ],
+      "correct": 0,
+      "fact": "The Morrigu is a triple goddess of war, fate, and death."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the god of light and knowledge?",
+      "options": [
+        "Lugh",
+        "Dagda",
+        "Nuada",
+        "Oghma"
+      ],
+      "correct": 0,
+      "fact": "Lugh is a god of light, knowledge, and craftsmanship."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the god of the sea?",
+      "options": [
+        "Mananan mac Lir",
+        "Lir",
+        "Tethra",
+        "Donn"
+      ],
+      "correct": 0,
+      "fact": "Mananan mac Lir is the god of the sea and the Otherworld."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the goddess of love and beauty?",
+      "options": [
+        "Aengus",
+        "Brigid",
+        "Danu",
+        "Aine"
+      ],
+      "correct": 0,
+      "fact": "Aengus is the god of love, but Brigid is the goddess of healing and poetry."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the goddess of fire and healing?",
+      "options": [
+        "Brigid",
+        "Danu",
+        "Aine",
+        "Morrigu"
+      ],
+      "correct": 0,
+      "fact": "Brigid is the goddess of fire, healing, poetry, and smithcraft."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the mother of the gods?",
+      "options": [
+        "Danu",
+        "Brigid",
+        "Aine",
+        "Morrigu"
+      ],
+      "correct": 0,
+      "fact": "Danu is the mother goddess and the Tuatha De Danann are named after her."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the Celtic gods?",
+      "options": [
+        "Tuatha De Danann",
+        "Aesir",
+        "Olympians",
+        "Devas"
+      ],
+      "correct": 0,
+      "fact": "The Tuatha De Danann are the Celtic gods and goddesses."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the god of eloquence?",
+      "options": [
+        "Oghma",
+        "Lugh",
+        "Dagda",
+        "Nuada"
+      ],
+      "correct": 0,
+      "fact": "Oghma is the god of eloquence, language, and writing."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the king of the Tuatha De Danann?",
+      "options": [
+        "Nuada",
+        "Dagda",
+        "Lugh",
+        "Oghma"
+      ],
+      "correct": 0,
+      "fact": "Nuada is the king of the Tuatha De Danann and god of healing."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the magical sword?",
+      "options": [
+        "Cla\u00edomh Solais",
+        "Caladcholg",
+        "Gae Bolga",
+        "Lugh's Spear"
+      ],
+      "correct": 0,
+      "fact": "Cla\u00edomh Solais is a magical sword that glows with light."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the magical spear?",
+      "options": [
+        "Gae Bolga",
+        "Cla\u00edomh Solais",
+        "Caladcholg",
+        "Lugh's Spear"
+      ],
+      "correct": 0,
+      "fact": "Gae Bolga is a magical spear that creates 30 barbs inside the victim."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the warrior woman?",
+      "options": [
+        "Scathach",
+        "Morrigu",
+        "Badb",
+        "Macha"
+      ],
+      "correct": 0,
+      "fact": "Scathach is a warrior woman who trains Celtic heroes."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the hero of Ulster?",
+      "options": [
+        "Cu Chulainn",
+        "Finn mac Cumhaill",
+        "Oisin",
+        "Deirdre"
+      ],
+      "correct": 0,
+      "fact": "Cu Chulainn is the greatest hero of Ulster and known for his strength."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of Cu Chulainn's transformation?",
+      "options": [
+        "Warp Spasm",
+        "Battle Frenzy",
+        "Warrior's Rage",
+        "Hero's Fury"
+      ],
+      "correct": 0,
+      "fact": "Cu Chulainn enters a warp spasm, a terrifying battle transformation."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the leader of the Fianna?",
+      "options": [
+        "Finn mac Cumhaill",
+        "Oisin",
+        "Diarmait",
+        "Cumhal"
+      ],
+      "correct": 0,
+      "fact": "Finn mac Cumhaill is the legendary leader of the Fianna warriors."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the poet and warrior?",
+      "options": [
+        "Oisin",
+        "Finn mac Cumhaill",
+        "Cu Chulainn",
+        "Diarmait"
+      ],
+      "correct": 0,
+      "fact": "Oisin is a poet and warrior, son of Finn mac Cumhaill."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the magical cauldron?",
+      "options": [
+        "Cauldron of Plenty",
+        "Cauldron of Rebirth",
+        "Holy Grail",
+        "Cauldron of Dagda"
+      ],
+      "correct": 0,
+      "fact": "The Cauldron of Plenty is a magical cauldron that provides endless food."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the god of death?",
+      "options": [
+        "Donn",
+        "Mananan mac Lir",
+        "Lir",
+        "Tethra"
+      ],
+      "correct": 0,
+      "fact": "Donn is the god of death and the leader of the dead."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the goddess of sovereignty?",
+      "options": [
+        "Medb",
+        "Morrigu",
+        "Brigid",
+        "Danu"
+      ],
+      "correct": 0,
+      "fact": "Medb is the queen of Connacht and goddess of sovereignty."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the magical stone?",
+      "options": [
+        "Lia Fail",
+        "Stone of Destiny",
+        "Stone of Tara",
+        "Sacred Stone"
+      ],
+      "correct": 0,
+      "fact": "Lia Fail is the Stone of Destiny that cries out when the true king sits upon it."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the god of the sun?",
+      "options": [
+        "Lugh",
+        "Belenos",
+        "Taranis",
+        "Toutatis"
+      ],
+      "correct": 0,
+      "fact": "Lugh is associated with the sun, though Belenos is also a sun god."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the god of thunder?",
+      "options": [
+        "Taranis",
+        "Toutatis",
+        "Lugh",
+        "Belenos"
+      ],
+      "correct": 0,
+      "fact": "Taranis is the god of thunder and the wheel."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the god of the tribe?",
+      "options": [
+        "Toutatis",
+        "Taranis",
+        "Lugh",
+        "Belenos"
+      ],
+      "correct": 0,
+      "fact": "Toutatis is the god of the tribe and protector of the people."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the magical island?",
+      "options": [
+        "Avalon",
+        "Tir na Nog",
+        "Mag Mell",
+        "Otherworld"
+      ],
+      "correct": 0,
+      "fact": "Avalon is the island of apples where Arthur is taken to be healed."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the legendary British king?",
+      "options": [
+        "Arthur",
+        "Uther",
+        "Merlin",
+        "Lancelot"
+      ],
+      "correct": 0,
+      "fact": "Arthur is the legendary king of Britain and leader of the Knights of the Round Table."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of Arthur's sword?",
+      "options": [
+        "Excalibur",
+        "Caliburn",
+        "Caledfwlch",
+        "Sword of Kings"
+      ],
+      "correct": 0,
+      "fact": "Excalibur is Arthur's magical sword with a scabbard that prevents bleeding."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the wizard?",
+      "options": [
+        "Merlin",
+        "Myrddin",
+        "Emrys",
+        "Taliesin"
+      ],
+      "correct": 0,
+      "fact": "Merlin is the wizard who helps Arthur become king."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the Round Table?",
+      "options": [
+        "Round Table",
+        "Table of Arthur",
+        "Table of Kings",
+        "Camelot's Table"
+      ],
+      "correct": 0,
+      "fact": "The Round Table is where Arthur's knights sit, with no head."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the greatest knight?",
+      "options": [
+        "Lancelot",
+        "Gawain",
+        "Galahad",
+        "Bedivere"
+      ],
+      "correct": 0,
+      "fact": "Lancelot is the greatest knight of the Round Table."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the pure knight?",
+      "options": [
+        "Galahad",
+        "Lancelot",
+        "Gawain",
+        "Bedivere"
+      ],
+      "correct": 0,
+      "fact": "Galahad is the pure knight who finds the Holy Grail."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the Holy Grail?",
+      "options": [
+        "Holy Grail",
+        "Grail of Christ",
+        "Cup of Life",
+        "Chalice of Kings"
+      ],
+      "correct": 0,
+      "fact": "The Holy Grail is the cup used by Jesus at the Last Supper."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the goddess of the land?",
+      "options": [
+        "Sovereignty",
+        "Danu",
+        "Brigid",
+        "Morrigu"
+      ],
+      "correct": 0,
+      "fact": "Sovereignty is the goddess of the land and must be married by the king."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the magical horse?",
+      "options": [
+        "Enbarr",
+        "Sleipnir",
+        "Pegasus",
+        "Hippogriff"
+      ],
+      "correct": 0,
+      "fact": "Enbarr is Mananan mac Lir's magical horse that travels over sea and land."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the goddess of fertility?",
+      "options": [
+        "Aine",
+        "Danu",
+        "Brigid",
+        "Morrigu"
+      ],
+      "correct": 0,
+      "fact": "Aine is the goddess of fertility, summer, and the sun."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the god of music?",
+      "options": [
+        "Aengus",
+        "Lugh",
+        "Oghma",
+        "Dagda"
+      ],
+      "correct": 0,
+      "fact": "Aengus is the god of love and music, with birds representing his kisses."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the magical harp?",
+      "options": [
+        "Harp of Dagda",
+        "Harp of Kings",
+        "Magical Harp",
+        "Golden Harp"
+      ],
+      "correct": 0,
+      "fact": "Dagda's harp plays music that controls the seasons and emotions."
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is the name of the magical cauldron?",
+      "options": [
+        "Cauldron of Plenty",
+        "Cauldron of Rebirth",
+        "Holy Grail",
+        "Cauldron of Dagda"
+      ],
+      "correct": 0,
+      "fact": "The Cauldron of Plenty provides endless food and the Cauldron of Rebirth resurrects the dead."
+    },
+    {
+      "difficulty": "medium",
+      "question": "Who is the warrior woman who trains heroes?",
+      "options": [
+        "Scathach",
+        "Morrigu",
+        "Badb",
+        "Macha"
+      ],
+      "correct": 0,
+      "fact": "Scathach trains Cu Chulainn and other Celtic heroes."
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is the name of Cu Chulainn's magical spear?",
+      "options": [
+        "Gae Bolga",
+        "Cla\u00edomh Solais",
+        "Caladcholg",
+        "Lugh's Spear"
+      ],
+      "correct": 0,
+      "fact": "Gae Bolga creates 30 barbs inside the victim's body."
+    },
+    {
+      "difficulty": "medium",
+      "question": "Who is the hero of the Fenian Cycle?",
+      "options": [
+        "Finn mac Cumhaill",
+        "Cu Chulainn",
+        "Oisin",
+        "Diarmait"
+      ],
+      "correct": 0,
+      "fact": "Finn mac Cumhaill is the leader of the Fianna warriors."
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is the name of the magical island?",
+      "options": [
+        "Avalon",
+        "Tir na Nog",
+        "Mag Mell",
+        "Otherworld"
+      ],
+      "correct": 0,
+      "fact": "Avalon is the island where Arthur is taken to be healed."
+    },
+    {
+      "difficulty": "medium",
+      "question": "Who is the legendary British king?",
+      "options": [
+        "Arthur",
+        "Uther",
+        "Merlin",
+        "Lancelot"
+      ],
+      "correct": 0,
+      "fact": "Arthur is the legendary king of Britain and leader of the Knights of the Round Table."
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is the name of Arthur's sword?",
+      "options": [
+        "Excalibur",
+        "Caliburn",
+        "Caledfwlch",
+        "Sword of Kings"
+      ],
+      "correct": 0,
+      "fact": "Excalibur is Arthur's magical sword with a scabbard that prevents bleeding."
+    },
+    {
+      "difficulty": "medium",
+      "question": "Who is the wizard who helps Arthur?",
+      "options": [
+        "Merlin",
+        "Myrddin",
+        "Emrys",
+        "Taliesin"
+      ],
+      "correct": 0,
+      "fact": "Merlin is the wizard who helps Arthur become king."
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is the name of the Round Table?",
+      "options": [
+        "Round Table",
+        "Table of Arthur",
+        "Table of Kings",
+        "Camelot's Table"
+      ],
+      "correct": 0,
+      "fact": "The Round Table is where Arthur's knights sit, with no head."
+    },
+    {
+      "difficulty": "medium",
+      "question": "Who is the greatest knight?",
+      "options": [
+        "Lancelot",
+        "Gawain",
+        "Galahad",
+        "Bedivere"
+      ],
+      "correct": 0,
+      "fact": "Lancelot is the greatest knight of the Round Table."
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is the name of the magical harp?",
+      "options": [
+        "Harp of Dagda",
+        "Harp of Kings",
+        "Magical Harp",
+        "Golden Harp"
+      ],
+      "correct": 0,
+      "fact": "Dagda's harp plays music that controls the seasons and emotions."
+    },
+    {
+      "difficulty": "hard",
+      "question": "Who is the god of music and love?",
+      "options": [
+        "Aengus",
+        "Lugh",
+        "Oghma",
+        "Dagda"
+      ],
+      "correct": 0,
+      "fact": "Aengus is the god of love and music, with birds representing his kisses."
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is the name of the magical stone?",
+      "options": [
+        "Lia Fail",
+        "Stone of Destiny",
+        "Stone of Tara",
+        "Sacred Stone"
+      ],
+      "correct": 0,
+      "fact": "Lia Fail cries out when the true king sits upon it."
+    },
+    {
+      "difficulty": "hard",
+      "question": "Who is the goddess of sovereignty?",
+      "options": [
+        "Medb",
+        "Morrigu",
+        "Brigid",
+        "Danu"
+      ],
+      "correct": 0,
+      "fact": "Medb is the queen of Connacht and goddess of sovereignty."
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is the name of the magical horse?",
+      "options": [
+        "Enbarr",
+        "Sleipnir",
+        "Pegasus",
+        "Hippogriff"
+      ],
+      "correct": 0,
+      "fact": "Enbarr is Mananan mac Lir's magical horse that travels over sea and land."
+    },
+    {
+      "difficulty": "hard",
+      "question": "Who is the god of the sea?",
+      "options": [
+        "Mananan mac Lir",
+        "Lir",
+        "Tethra",
+        "Donn"
+      ],
+      "correct": 0,
+      "fact": "Mananan mac Lir is the god of the sea and the Otherworld."
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is the name of the Otherworld?",
+      "options": [
+        "Tir na Nog",
+        "Mag Mell",
+        "Otherworld",
+        "Annwn"
+      ],
+      "correct": 0,
+      "fact": "Tir na Nog is the land of youth and eternal happiness."
+    },
+    {
+      "difficulty": "hard",
+      "question": "Who is the god of death?",
+      "options": [
+        "Donn",
+        "Mananan mac Lir",
+        "Lir",
+        "Tethra"
+      ],
+      "correct": 0,
+      "fact": "Donn is the god of death and the leader of the dead."
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is the name of the sacred fire?",
+      "options": [
+        "Beltane Fire",
+        "Sacred Fire",
+        "Druidic Fire",
+        "Eternal Fire"
+      ],
+      "correct": 0,
+      "fact": "Beltane is a sacred fire festival marking the beginning of summer."
+    },
+    {
+      "difficulty": "hard",
+      "question": "Who is the pure knight who finds the Holy Grail?",
+      "options": [
+        "Galahad",
+        "Lancelot",
+        "Gawain",
+        "Bedivere"
+      ],
+      "correct": 0,
+      "fact": "Galahad is the pure knight who achieves the Holy Grail."
+    }
+  ],
+  "hindu": [
+    {
+      "difficulty": "easy",
+      "question": "Who is the supreme god in Hinduism?",
+      "options": [
+        "Brahman",
+        "Brahma",
+        "Vishnu",
+        "Shiva"
+      ],
+      "correct": 0,
+      "fact": "Brahman is the ultimate reality and source of all existence."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the creator god?",
+      "options": [
+        "Brahma",
+        "Vishnu",
+        "Shiva",
+        "Indra"
+      ],
+      "correct": 0,
+      "fact": "Brahma is the creator of the universe and all living things."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the preserver god?",
+      "options": [
+        "Vishnu",
+        "Brahma",
+        "Shiva",
+        "Indra"
+      ],
+      "correct": 0,
+      "fact": "Vishnu preserves and sustains the universe."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the destroyer god?",
+      "options": [
+        "Shiva",
+        "Brahma",
+        "Vishnu",
+        "Indra"
+      ],
+      "correct": 0,
+      "fact": "Shiva destroys and transforms, necessary for renewal and rebirth."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the king of the gods?",
+      "options": [
+        "Indra",
+        "Brahma",
+        "Vishnu",
+        "Shiva"
+      ],
+      "correct": 0,
+      "fact": "Indra is the king of the gods and god of thunder and rain."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the trinity of gods?",
+      "options": [
+        "Trimurti",
+        "Trimurty",
+        "Trinity",
+        "Three Gods"
+      ],
+      "correct": 0,
+      "fact": "The Trimurti consists of Brahma, Vishnu, and Shiva."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the goddess of wealth?",
+      "options": [
+        "Lakshmi",
+        "Saraswati",
+        "Parvati",
+        "Durga"
+      ],
+      "correct": 0,
+      "fact": "Lakshmi is the goddess of wealth, fortune, and prosperity."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the goddess of knowledge?",
+      "options": [
+        "Saraswati",
+        "Lakshmi",
+        "Parvati",
+        "Durga"
+      ],
+      "correct": 0,
+      "fact": "Saraswati is the goddess of knowledge, music, and the arts."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the goddess of power?",
+      "options": [
+        "Parvati",
+        "Lakshmi",
+        "Saraswati",
+        "Durga"
+      ],
+      "correct": 0,
+      "fact": "Parvati is the goddess of power, love, and fertility, wife of Shiva."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the goddess of war?",
+      "options": [
+        "Durga",
+        "Kali",
+        "Parvati",
+        "Saraswati"
+      ],
+      "correct": 0,
+      "fact": "Durga is the warrior goddess who defeats demons and evil."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the dark goddess?",
+      "options": [
+        "Kali",
+        "Durga",
+        "Parvati",
+        "Saraswati"
+      ],
+      "correct": 0,
+      "fact": "Kali is the fierce goddess of destruction and liberation."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the god of love?",
+      "options": [
+        "Kamadeva",
+        "Kama",
+        "Eros",
+        "Cupid"
+      ],
+      "correct": 0,
+      "fact": "Kamadeva is the god of love and desire."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the god of wind?",
+      "options": [
+        "Vayu",
+        "Indra",
+        "Agni",
+        "Surya"
+      ],
+      "correct": 0,
+      "fact": "Vayu is the god of wind and air."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the god of fire?",
+      "options": [
+        "Agni",
+        "Vayu",
+        "Indra",
+        "Surya"
+      ],
+      "correct": 0,
+      "fact": "Agni is the god of fire and sacrifice."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the god of the sun?",
+      "options": [
+        "Surya",
+        "Agni",
+        "Vayu",
+        "Indra"
+      ],
+      "correct": 0,
+      "fact": "Surya is the god of the sun and travels across the sky in a chariot."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the god of the moon?",
+      "options": [
+        "Chandra",
+        "Soma",
+        "Chandrama",
+        "Moon God"
+      ],
+      "correct": 0,
+      "fact": "Chandra is the god of the moon and represents coolness and peace."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the god of death?",
+      "options": [
+        "Yama",
+        "Kala",
+        "Mrityu",
+        "Death God"
+      ],
+      "correct": 0,
+      "fact": "Yama is the god of death and the underworld."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the god of wealth and fortune?",
+      "options": [
+        "Kuber",
+        "Lakshmi",
+        "Indra",
+        "Brahma"
+      ],
+      "correct": 0,
+      "fact": "Kuber is the god of wealth and the guardian of treasures."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the elephant-headed god?",
+      "options": [
+        "Ganesha",
+        "Hanuman",
+        "Nandi",
+        "Garuda"
+      ],
+      "correct": 0,
+      "fact": "Ganesha is the remover of obstacles and god of beginnings."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the monkey god?",
+      "options": [
+        "Hanuman",
+        "Ganesha",
+        "Nandi",
+        "Garuda"
+      ],
+      "correct": 0,
+      "fact": "Hanuman is the monkey god and devoted follower of Rama."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the sacred texts?",
+      "options": [
+        "Vedas",
+        "Upanishads",
+        "Puranas",
+        "Sutras"
+      ],
+      "correct": 0,
+      "fact": "The Vedas are the oldest and most sacred texts in Hinduism."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the epic poem?",
+      "options": [
+        "Mahabharata",
+        "Ramayana",
+        "Bhagavad Gita",
+        "Rig Veda"
+      ],
+      "correct": 0,
+      "fact": "The Mahabharata is the longest epic poem ever written."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the hero of the Ramayana?",
+      "options": [
+        "Rama",
+        "Krishna",
+        "Arjuna",
+        "Yudhishthira"
+      ],
+      "correct": 0,
+      "fact": "Rama is the hero of the Ramayana and an avatar of Vishnu."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the hero of the Mahabharata?",
+      "options": [
+        "Arjuna",
+        "Rama",
+        "Krishna",
+        "Yudhishthira"
+      ],
+      "correct": 0,
+      "fact": "Arjuna is the greatest archer and hero of the Mahabharata."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the charioteer and advisor?",
+      "options": [
+        "Krishna",
+        "Rama",
+        "Arjuna",
+        "Yudhishthira"
+      ],
+      "correct": 0,
+      "fact": "Krishna is the charioteer of Arjuna and teaches the Bhagavad Gita."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the sacred song?",
+      "options": [
+        "Bhagavad Gita",
+        "Vedas",
+        "Upanishads",
+        "Puranas"
+      ],
+      "correct": 0,
+      "fact": "The Bhagavad Gita is Krishna's teachings to Arjuna on the battlefield."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the demon king?",
+      "options": [
+        "Ravana",
+        "Hiranyakashyap",
+        "Kansa",
+        "Bali"
+      ],
+      "correct": 0,
+      "fact": "Ravana is the demon king of Lanka who abducts Sita."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the wife of Rama?",
+      "options": [
+        "Sita",
+        "Draupadi",
+        "Radha",
+        "Parvati"
+      ],
+      "correct": 0,
+      "fact": "Sita is the wife of Rama and the heroine of the Ramayana."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the wife of Krishna?",
+      "options": [
+        "Radha",
+        "Sita",
+        "Draupadi",
+        "Parvati"
+      ],
+      "correct": 0,
+      "fact": "Radha is the beloved of Krishna and represents divine love."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the sacred mountain?",
+      "options": [
+        "Mount Meru",
+        "Mount Kailash",
+        "Mount Himalaya",
+        "Mount Sumeru"
+      ],
+      "correct": 0,
+      "fact": "Mount Meru is the center of the universe in Hindu cosmology."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the sacred river?",
+      "options": [
+        "Ganges",
+        "Yamuna",
+        "Brahmaputra",
+        "Godavari"
+      ],
+      "correct": 0,
+      "fact": "The Ganges is the holiest river in Hinduism."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the underworld?",
+      "options": [
+        "Patala",
+        "Naraka",
+        "Yamaloka",
+        "Underworld"
+      ],
+      "correct": 0,
+      "fact": "Patala is the underworld realm beneath the earth."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the heavens?",
+      "options": [
+        "Swarga",
+        "Deva Loka",
+        "Indra Loka",
+        "Heaven"
+      ],
+      "correct": 0,
+      "fact": "Swarga is the heaven realm where the gods and blessed souls dwell."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the cycle of rebirth?",
+      "options": [
+        "Samsara",
+        "Karma",
+        "Dharma",
+        "Moksha"
+      ],
+      "correct": 0,
+      "fact": "Samsara is the cycle of birth, death, and rebirth."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the law of action?",
+      "options": [
+        "Karma",
+        "Dharma",
+        "Artha",
+        "Moksha"
+      ],
+      "correct": 0,
+      "fact": "Karma is the law of cause and effect governing all actions."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of duty?",
+      "options": [
+        "Dharma",
+        "Karma",
+        "Artha",
+        "Moksha"
+      ],
+      "correct": 0,
+      "fact": "Dharma is the duty and righteousness that maintains cosmic order."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of liberation?",
+      "options": [
+        "Moksha",
+        "Nirvana",
+        "Kaivalya",
+        "Salvation"
+      ],
+      "correct": 0,
+      "fact": "Moksha is liberation from the cycle of rebirth."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the avatar of Vishnu?",
+      "options": [
+        "Krishna",
+        "Rama",
+        "Buddha",
+        "Kalki"
+      ],
+      "correct": 0,
+      "fact": "Krishna and Rama are avatars of Vishnu, as is Buddha in some traditions."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the divine play?",
+      "options": [
+        "Lila",
+        "Maya",
+        "Brahman",
+        "Atman"
+      ],
+      "correct": 0,
+      "fact": "Lila is the divine play or sport of the gods."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of illusion?",
+      "options": [
+        "Maya",
+        "Lila",
+        "Brahman",
+        "Atman"
+      ],
+      "correct": 0,
+      "fact": "Maya is the illusion that veils the true nature of reality."
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is the name of the sacred texts?",
+      "options": [
+        "Vedas",
+        "Upanishads",
+        "Puranas",
+        "Sutras"
+      ],
+      "correct": 0,
+      "fact": "The Vedas are the oldest and most sacred texts in Hinduism."
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is the name of the epic poem?",
+      "options": [
+        "Mahabharata",
+        "Ramayana",
+        "Bhagavad Gita",
+        "Rig Veda"
+      ],
+      "correct": 0,
+      "fact": "The Mahabharata is the longest epic poem ever written."
+    },
+    {
+      "difficulty": "medium",
+      "question": "Who is the hero of the Ramayana?",
+      "options": [
+        "Rama",
+        "Krishna",
+        "Arjuna",
+        "Yudhishthira"
+      ],
+      "correct": 0,
+      "fact": "Rama is the hero of the Ramayana and an avatar of Vishnu."
+    },
+    {
+      "difficulty": "medium",
+      "question": "Who is the hero of the Mahabharata?",
+      "options": [
+        "Arjuna",
+        "Rama",
+        "Krishna",
+        "Yudhishthira"
+      ],
+      "correct": 0,
+      "fact": "Arjuna is the greatest archer and hero of the Mahabharata."
+    },
+    {
+      "difficulty": "medium",
+      "question": "Who is the charioteer and advisor?",
+      "options": [
+        "Krishna",
+        "Rama",
+        "Arjuna",
+        "Yudhishthira"
+      ],
+      "correct": 0,
+      "fact": "Krishna is the charioteer of Arjuna and teaches the Bhagavad Gita."
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is the name of the sacred song?",
+      "options": [
+        "Bhagavad Gita",
+        "Vedas",
+        "Upanishads",
+        "Puranas"
+      ],
+      "correct": 0,
+      "fact": "The Bhagavad Gita is Krishna's teachings to Arjuna on the battlefield."
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is the name of the demon king?",
+      "options": [
+        "Ravana",
+        "Hiranyakashyap",
+        "Kansa",
+        "Bali"
+      ],
+      "correct": 0,
+      "fact": "Ravana is the demon king of Lanka who abducts Sita."
+    },
+    {
+      "difficulty": "medium",
+      "question": "Who is the wife of Rama?",
+      "options": [
+        "Sita",
+        "Draupadi",
+        "Radha",
+        "Parvati"
+      ],
+      "correct": 0,
+      "fact": "Sita is the wife of Rama and the heroine of the Ramayana."
+    },
+    {
+      "difficulty": "medium",
+      "question": "Who is the wife of Krishna?",
+      "options": [
+        "Radha",
+        "Sita",
+        "Draupadi",
+        "Parvati"
+      ],
+      "correct": 0,
+      "fact": "Radha is the beloved of Krishna and represents divine love."
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is the name of the sacred river?",
+      "options": [
+        "Ganges",
+        "Yamuna",
+        "Brahmaputra",
+        "Godavari"
+      ],
+      "correct": 0,
+      "fact": "The Ganges is the holiest river in Hinduism."
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is the name of the cycle of rebirth?",
+      "options": [
+        "Samsara",
+        "Karma",
+        "Dharma",
+        "Moksha"
+      ],
+      "correct": 0,
+      "fact": "Samsara is the cycle of birth, death, and rebirth."
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is the name of the law of action?",
+      "options": [
+        "Karma",
+        "Dharma",
+        "Artha",
+        "Moksha"
+      ],
+      "correct": 0,
+      "fact": "Karma is the law of cause and effect governing all actions."
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is the name of duty?",
+      "options": [
+        "Dharma",
+        "Karma",
+        "Artha",
+        "Moksha"
+      ],
+      "correct": 0,
+      "fact": "Dharma is the duty and righteousness that maintains cosmic order."
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is the name of liberation?",
+      "options": [
+        "Moksha",
+        "Nirvana",
+        "Kaivalya",
+        "Salvation"
+      ],
+      "correct": 0,
+      "fact": "Moksha is liberation from the cycle of rebirth."
+    },
+    {
+      "difficulty": "hard",
+      "question": "Who is the avatar of Vishnu?",
+      "options": [
+        "Krishna",
+        "Rama",
+        "Buddha",
+        "Kalki"
+      ],
+      "correct": 0,
+      "fact": "Krishna and Rama are avatars of Vishnu, as is Buddha in some traditions."
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is the name of the divine play?",
+      "options": [
+        "Lila",
+        "Maya",
+        "Brahman",
+        "Atman"
+      ],
+      "correct": 0,
+      "fact": "Lila is the divine play or sport of the gods."
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is the name of illusion?",
+      "options": [
+        "Maya",
+        "Lila",
+        "Brahman",
+        "Atman"
+      ],
+      "correct": 0,
+      "fact": "Maya is the illusion that veils the true nature of reality."
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is the name of the self?",
+      "options": [
+        "Atman",
+        "Brahman",
+        "Lila",
+        "Maya"
+      ],
+      "correct": 0,
+      "fact": "Atman is the individual soul, which is identical to Brahman."
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is the name of the ultimate reality?",
+      "options": [
+        "Brahman",
+        "Atman",
+        "Brahma",
+        "Brahmin"
+      ],
+      "correct": 0,
+      "fact": "Brahman is the ultimate reality and source of all existence."
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is the name of the four goals of life?",
+      "options": [
+        "Dharma, Artha, Kama, Moksha",
+        "Vedas, Upanishads, Puranas, Sutras",
+        "Brahma, Vishnu, Shiva, Devi",
+        "Creation, Preservation, Destruction, Liberation"
+      ],
+      "correct": 0,
+      "fact": "The four goals are Dharma (duty), Artha (wealth), Kama (desire), and Moksha (liberation)."
+    }
+  ],
+  "japanese": [
+    {
+      "difficulty": "easy",
+      "question": "Who is the sun goddess?",
+      "options": [
+        "Amaterasu",
+        "Tsukuyomi",
+        "Susanoo",
+        "Izanami"
+      ],
+      "correct": 0,
+      "fact": "Amaterasu is the supreme goddess and source of all light."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the moon god?",
+      "options": [
+        "Tsukuyomi",
+        "Amaterasu",
+        "Susanoo",
+        "Izanagi"
+      ],
+      "correct": 0,
+      "fact": "Tsukuyomi is the god of the moon and night."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the storm god?",
+      "options": [
+        "Susanoo",
+        "Amaterasu",
+        "Tsukuyomi",
+        "Raijin"
+      ],
+      "correct": 0,
+      "fact": "Susanoo is the god of storms, chaos, and the sea."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the creator god?",
+      "options": [
+        "Izanagi",
+        "Izanami",
+        "Amaterasu",
+        "Susanoo"
+      ],
+      "correct": 0,
+      "fact": "Izanagi and Izanami are the primordial creators of Japan."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the creator goddess?",
+      "options": [
+        "Izanami",
+        "Izanagi",
+        "Amaterasu",
+        "Susanoo"
+      ],
+      "correct": 0,
+      "fact": "Izanami is the female creator who died giving birth to fire."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the underworld?",
+      "options": [
+        "Yomi",
+        "Yomotsu Kuni",
+        "Underworld",
+        "Hell"
+      ],
+      "correct": 0,
+      "fact": "Yomi is the land of the dead and darkness."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the god of thunder?",
+      "options": [
+        "Raijin",
+        "Fujin",
+        "Raiden",
+        "Susanoo"
+      ],
+      "correct": 0,
+      "fact": "Raijin is the god of thunder and lightning."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the god of wind?",
+      "options": [
+        "Fujin",
+        "Raijin",
+        "Susanoo",
+        "Inari"
+      ],
+      "correct": 0,
+      "fact": "Fujin is the god of wind and air."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the god of rice and prosperity?",
+      "options": [
+        "Inari",
+        "Ebisu",
+        "Daikoku",
+        "Benzaiten"
+      ],
+      "correct": 0,
+      "fact": "Inari is the god of rice, agriculture, and prosperity."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the god of wealth?",
+      "options": [
+        "Daikoku",
+        "Ebisu",
+        "Inari",
+        "Hotei"
+      ],
+      "correct": 0,
+      "fact": "Daikoku is the god of wealth and commerce."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the god of fishermen?",
+      "options": [
+        "Ebisu",
+        "Daikoku",
+        "Inari",
+        "Hotei"
+      ],
+      "correct": 0,
+      "fact": "Ebisu is the god of fishermen and good fortune."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the goddess of music?",
+      "options": [
+        "Benzaiten",
+        "Inari",
+        "Amaterasu",
+        "Izanami"
+      ],
+      "correct": 0,
+      "fact": "Benzaiten is the goddess of music, arts, and beauty."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the god of happiness?",
+      "options": [
+        "Hotei",
+        "Daikoku",
+        "Ebisu",
+        "Inari"
+      ],
+      "correct": 0,
+      "fact": "Hotei is the god of happiness, abundance, and contentment."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the sacred mountain?",
+      "options": [
+        "Mount Fuji",
+        "Mount Takao",
+        "Mount Aso",
+        "Mount Hira"
+      ],
+      "correct": 0,
+      "fact": "Mount Fuji is the most sacred mountain in Japan."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the sacred bridge?",
+      "options": [
+        "Floating Bridge of Heaven",
+        "Rainbow Bridge",
+        "Sacred Bridge",
+        "Heavenly Bridge"
+      ],
+      "correct": 0,
+      "fact": "The Floating Bridge of Heaven is where Izanagi and Izanami stood to create Japan."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the sacred tree?",
+      "options": [
+        "Sakaki",
+        "Cherry Blossom",
+        "Pine Tree",
+        "Sacred Tree"
+      ],
+      "correct": 0,
+      "fact": "Sakaki is the sacred tree used in Shinto rituals."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the mirror?",
+      "options": [
+        "Yata no Kagami",
+        "Sacred Mirror",
+        "Mirror of Heaven",
+        "Divine Mirror"
+      ],
+      "correct": 0,
+      "fact": "Yata no Kagami is a sacred mirror and imperial regalia."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the sword?",
+      "options": [
+        "Kusanagi",
+        "Sword of Heaven",
+        "Sacred Sword",
+        "Divine Blade"
+      ],
+      "correct": 0,
+      "fact": "Kusanagi is a sacred sword and imperial regalia."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the jewel?",
+      "options": [
+        "Yata no Magatama",
+        "Sacred Jewel",
+        "Jewel of Heaven",
+        "Divine Jewel"
+      ],
+      "correct": 0,
+      "fact": "Yata no Magatama is a sacred jewel and imperial regalia."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What are the three imperial regalia?",
+      "options": [
+        "Mirror, Sword, Jewel",
+        "Crown, Sword, Scepter",
+        "Ring, Necklace, Crown",
+        "Jewel, Crown, Scepter"
+      ],
+      "correct": 0,
+      "fact": "The three imperial regalia are Yata no Kagami, Kusanagi, and Yata no Magatama."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the fox spirit?",
+      "options": [
+        "Kitsune",
+        "Tanuki",
+        "Inari",
+        "Kami"
+      ],
+      "correct": 0,
+      "fact": "Kitsune are fox spirits that can shapeshift and are associated with Inari."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the badger spirit?",
+      "options": [
+        "Tanuki",
+        "Kitsune",
+        "Inari",
+        "Kami"
+      ],
+      "correct": 0,
+      "fact": "Tanuki are badger spirits known for their mischief and shapeshifting."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the spirits?",
+      "options": [
+        "Kami",
+        "Yokai",
+        "Yurai",
+        "Mononoke"
+      ],
+      "correct": 0,
+      "fact": "Kami are spirits or deities in Shinto religion."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the supernatural creatures?",
+      "options": [
+        "Yokai",
+        "Kami",
+        "Yurai",
+        "Mononoke"
+      ],
+      "correct": 0,
+      "fact": "Yokai are supernatural creatures in Japanese folklore."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the dragon?",
+      "options": [
+        "Ryuu",
+        "Tatsu",
+        "Dragon",
+        "Serpent"
+      ],
+      "correct": 0,
+      "fact": "Ryuu is the Japanese dragon, a symbol of power and wisdom."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the water dragon?",
+      "options": [
+        "Mizuchi",
+        "Ryuu",
+        "Tatsu",
+        "Serpent"
+      ],
+      "correct": 0,
+      "fact": "Mizuchi is a water dragon or serpent in Japanese mythology."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the cherry blossom?",
+      "options": [
+        "Sakura",
+        "Ume",
+        "Momiji",
+        "Hana"
+      ],
+      "correct": 0,
+      "fact": "Sakura is the cherry blossom, a symbol of beauty and transience."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the autumn leaves?",
+      "options": [
+        "Momiji",
+        "Sakura",
+        "Ume",
+        "Hana"
+      ],
+      "correct": 0,
+      "fact": "Momiji are the autumn leaves, representing change and impermanence."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the plum blossom?",
+      "options": [
+        "Ume",
+        "Sakura",
+        "Momiji",
+        "Hana"
+      ],
+      "correct": 0,
+      "fact": "Ume is the plum blossom, a symbol of strength and resilience."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the flower?",
+      "options": [
+        "Hana",
+        "Sakura",
+        "Ume",
+        "Momiji"
+      ],
+      "correct": 0,
+      "fact": "Hana is the general term for flower in Japanese."
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is the goddess of the sun in Shinto?",
+      "options": [
+        "Amaterasu",
+        "Tsukuyomi",
+        "Susanoo",
+        "Izanami"
+      ],
+      "correct": 0,
+      "fact": "Amaterasu is the supreme goddess in Shinto and ancestor of the imperial family."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the way of the gods?",
+      "options": [
+        "Shinto",
+        "Shintoism",
+        "Kami no Michi",
+        "Way of Kami"
+      ],
+      "correct": 0,
+      "fact": "Shinto is the indigenous religion of Japan, meaning 'way of the gods'."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the shrine?",
+      "options": [
+        "Jinja",
+        "Temple",
+        "Shrine",
+        "Sacred Place"
+      ],
+      "correct": 0,
+      "fact": "Jinja is a Shinto shrine dedicated to kami."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the torii gate?",
+      "options": [
+        "Torii",
+        "Gate",
+        "Sacred Gate",
+        "Shrine Gate"
+      ],
+      "correct": 0,
+      "fact": "Torii is the gate marking the entrance to a Shinto shrine."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the purification ritual?",
+      "options": [
+        "Misogi",
+        "Purification",
+        "Cleansing",
+        "Ritual"
+      ],
+      "correct": 0,
+      "fact": "Misogi is the Shinto purification ritual, often involving water."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the New Year celebration?",
+      "options": [
+        "Shogatsu",
+        "New Year",
+        "Festival",
+        "Celebration"
+      ],
+      "correct": 0,
+      "fact": "Shogatsu is the Japanese New Year celebration."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the Obon festival?",
+      "options": [
+        "Obon",
+        "Festival of the Dead",
+        "Lantern Festival",
+        "Summer Festival"
+      ],
+      "correct": 0,
+      "fact": "Obon is the festival honoring the spirits of the deceased."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the Tanabata festival?",
+      "options": [
+        "Tanabata",
+        "Star Festival",
+        "Weaver Festival",
+        "Lovers' Festival"
+      ],
+      "correct": 0,
+      "fact": "Tanabata celebrates the meeting of two star-crossed lovers."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the tea ceremony?",
+      "options": [
+        "Chanoyu",
+        "Tea Ceremony",
+        "Way of Tea",
+        "Tea Ritual"
+      ],
+      "correct": 0,
+      "fact": "Chanoyu is the Japanese tea ceremony, emphasizing harmony and respect."
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the name of the martial art?",
+      "options": [
+        "Bushido",
+        "Martial Art",
+        "Way of the Warrior",
+        "Samurai Code"
+      ],
+      "correct": 0,
+      "fact": "Bushido is the code of honor of the samurai warriors."
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is the name of the sacred mirror?",
+      "options": [
+        "Yata no Kagami",
+        "Sacred Mirror",
+        "Mirror of Heaven",
+        "Divine Mirror"
+      ],
+      "correct": 0,
+      "fact": "Yata no Kagami is a sacred mirror and imperial regalia."
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is the name of the sacred sword?",
+      "options": [
+        "Kusanagi",
+        "Sword of Heaven",
+        "Sacred Sword",
+        "Divine Blade"
+      ],
+      "correct": 0,
+      "fact": "Kusanagi is a sacred sword and imperial regalia."
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is the name of the sacred jewel?",
+      "options": [
+        "Yata no Magatama",
+        "Sacred Jewel",
+        "Jewel of Heaven",
+        "Divine Jewel"
+      ],
+      "correct": 0,
+      "fact": "Yata no Magatama is a sacred jewel and imperial regalia."
+    },
+    {
+      "difficulty": "medium",
+      "question": "What are the three imperial regalia?",
+      "options": [
+        "Mirror, Sword, Jewel",
+        "Crown, Sword, Scepter",
+        "Ring, Necklace, Crown",
+        "Jewel, Crown, Scepter"
+      ],
+      "correct": 0,
+      "fact": "The three imperial regalia are Yata no Kagami, Kusanagi, and Yata no Magatama."
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is the name of the fox spirit?",
+      "options": [
+        "Kitsune",
+        "Tanuki",
+        "Inari",
+        "Kami"
+      ],
+      "correct": 0,
+      "fact": "Kitsune are fox spirits that can shapeshift and are associated with Inari."
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is the name of the badger spirit?",
+      "options": [
+        "Tanuki",
+        "Kitsune",
+        "Inari",
+        "Kami"
+      ],
+      "correct": 0,
+      "fact": "Tanuki are badger spirits known for their mischief and shapeshifting."
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is the name of the spirits?",
+      "options": [
+        "Kami",
+        "Yokai",
+        "Yurai",
+        "Mononoke"
+      ],
+      "correct": 0,
+      "fact": "Kami are spirits or deities in Shinto religion."
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is the name of the supernatural creatures?",
+      "options": [
+        "Yokai",
+        "Kami",
+        "Yurai",
+        "Mononoke"
+      ],
+      "correct": 0,
+      "fact": "Yokai are supernatural creatures in Japanese folklore."
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is the name of the dragon?",
+      "options": [
+        "Ryuu",
+        "Tatsu",
+        "Dragon",
+        "Serpent"
+      ],
+      "correct": 0,
+      "fact": "Ryuu is the Japanese dragon, a symbol of power and wisdom."
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is the name of the water dragon?",
+      "options": [
+        "Mizuchi",
+        "Ryuu",
+        "Tatsu",
+        "Serpent"
+      ],
+      "correct": 0,
+      "fact": "Mizuchi is a water dragon or serpent in Japanese mythology."
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is the name of the cherry blossom?",
+      "options": [
+        "Sakura",
+        "Ume",
+        "Momiji",
+        "Hana"
+      ],
+      "correct": 0,
+      "fact": "Sakura is the cherry blossom, a symbol of beauty and transience."
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is the name of the autumn leaves?",
+      "options": [
+        "Momiji",
+        "Sakura",
+        "Ume",
+        "Hana"
+      ],
+      "correct": 0,
+      "fact": "Momiji are the autumn leaves, representing change and impermanence."
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is the name of the plum blossom?",
+      "options": [
+        "Ume",
+        "Sakura",
+        "Momiji",
+        "Hana"
+      ],
+      "correct": 0,
+      "fact": "Ume is the plum blossom, a symbol of strength and resilience."
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is the name of the flower?",
+      "options": [
+        "Hana",
+        "Sakura",
+        "Ume",
+        "Momiji"
+      ],
+      "correct": 0,
+      "fact": "Hana is the general term for flower in Japanese."
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is the name of the way of the gods?",
+      "options": [
+        "Shinto",
+        "Shintoism",
+        "Kami no Michi",
+        "Way of Kami"
+      ],
+      "correct": 0,
+      "fact": "Shinto is the indigenous religion of Japan, meaning 'way of the gods'."
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is the name of the shrine?",
+      "options": [
+        "Jinja",
+        "Temple",
+        "Shrine",
+        "Sacred Place"
+      ],
+      "correct": 0,
+      "fact": "Jinja is a Shinto shrine dedicated to kami."
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is the name of the torii gate?",
+      "options": [
+        "Torii",
+        "Gate",
+        "Sacred Gate",
+        "Shrine Gate"
+      ],
+      "correct": 0,
+      "fact": "Torii is the gate marking the entrance to a Shinto shrine."
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is the name of the purification ritual?",
+      "options": [
+        "Misogi",
+        "Purification",
+        "Cleansing",
+        "Ritual"
+      ],
+      "correct": 0,
+      "fact": "Misogi is the Shinto purification ritual, often involving water."
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is the name of the New Year celebration?",
+      "options": [
+        "Shogatsu",
+        "New Year",
+        "Festival",
+        "Celebration"
+      ],
+      "correct": 0,
+      "fact": "Shogatsu is the Japanese New Year celebration."
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is the name of the tea ceremony?",
+      "options": [
+        "Chanoyu",
+        "Tea Ceremony",
+        "Way of Tea",
+        "Tea Ritual"
+      ],
+      "correct": 0,
+      "fact": "Chanoyu is the Japanese tea ceremony, emphasizing harmony and respect."
+    }
+  ]
+}
