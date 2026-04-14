@@ -1,32 +1,48 @@
-import { ScrollView, Text, View, Pressable, Platform } from "react-native";
+import { ScrollView, Text, View, Pressable, Platform, Alert } from "react-native";
 import { useRouter } from "expo-router";
 import * as Haptics from "expo-haptics";
 import { ScreenContainer } from "@/components/screen-container";
 import { useGame } from "@/lib/game-context";
 import { useColors } from "@/hooks/use-colors";
+import { getLevelTitle } from "@/lib/types";
 
 /**
- * Home Screen - Mythos Arena
+ * Home Screen — Mythos Arena
  *
- * Main entry point with game mode selection and player stats
+ * Entry point with game mode selection and live player stats.
  */
 export default function HomeScreen() {
   const router = useRouter();
   const colors = useColors();
   const { state } = useGame();
 
-  const handleModeSelect = async (mode: string) => {
+  const haptic = async () => {
     if (Platform.OS !== "web") {
       await Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Light);
     }
-    console.log("Selected mode:", mode);
   };
+
+  const goToQuiz = async (mode: string, pantheon?: string) => {
+    await haptic();
+    router.push({
+      pathname: "/quiz",
+      params: { mode, ...(pantheon ? { pantheon } : {}) },
+    });
+  };
+
+  const showVersus = () => {
+    Alert.alert("Coming Soon", "Versus mode will be available in a future update!");
+  };
+
+  const xpForNextLevel = state.playerLevel * 1000;
+  const xpProgress = Math.min(100, (state.currentXP / xpForNextLevel) * 100);
 
   return (
     <ScreenContainer className="bg-background">
       <ScrollView contentContainerStyle={{ flexGrow: 1 }} showsVerticalScrollIndicator={false}>
         <View className="flex-1 p-6">
-          {/* Header - Temple Theme */}
+
+          {/* Header */}
           <View className="mb-8">
             <Text className="text-4xl font-bold text-primary mb-2">Mythos Arena</Text>
             <Text className="text-sm text-muted">Enter the halls of ancient legends</Text>
@@ -36,8 +52,10 @@ export default function HomeScreen() {
           <View className="bg-surface rounded-lg p-5 mb-8 border border-border">
             <View className="flex-row justify-between items-start mb-4">
               <View>
-                <Text className="text-xs text-muted mb-1">Level</Text>
-                <Text className="text-3xl font-bold text-primary">{state.playerLevel}</Text>
+                <Text className="text-xs text-muted mb-1">Level {state.playerLevel}</Text>
+                <Text className="text-3xl font-bold text-primary">
+                  {getLevelTitle(state.playerLevel)}
+                </Text>
               </View>
               <View className="items-end">
                 <Text className="text-xs text-muted mb-1">Pantheons Unlocked</Text>
@@ -46,92 +64,164 @@ export default function HomeScreen() {
                 </Text>
               </View>
             </View>
-
-            {/* XP Progress Bar */}
             <View className="bg-background rounded-full h-2 overflow-hidden">
-              <View
-                className="bg-primary h-full"
-                style={{ width: `${(state.playerLevel % 10) * 10}%` }}
-              />
+              <View className="bg-primary h-full" style={{ width: `${xpProgress}%` }} />
             </View>
-            <Text className="text-xs text-muted mt-2">XP Progress</Text>
+            <Text className="text-xs text-muted mt-2">
+              {state.currentXP} / {xpForNextLevel} XP to next level
+            </Text>
           </View>
 
           {/* Daily Challenge CTA */}
           <Pressable
-            onPress={() => handleModeSelect("daily_challenge")}
-            className="bg-primary rounded-lg p-5 mb-8 active:opacity-80"
+            onPress={() => goToQuiz("daily_challenge")}
+            style={{
+              backgroundColor: colors.primary,
+              borderRadius: 12,
+              padding: 20,
+              marginBottom: 32,
+            }}
           >
-            <View>
-              <Text className="text-lg font-bold text-background mb-1">🎯 Daily Challenge</Text>
-              <Text className="text-sm text-background/80 mb-3">
-                10 unique questions • 1,500 XP • Global leaderboard
-              </Text>
-              <Text className="text-xs text-background/60">Resets daily at midnight</Text>
-            </View>
+            <Text style={{ fontSize: 18, fontWeight: "bold", color: colors.background, marginBottom: 4 }}>
+              🎯 Daily Challenge
+            </Text>
+            <Text style={{ fontSize: 14, color: colors.background, opacity: 0.8, marginBottom: 8 }}>
+              10 unique questions • Global leaderboard
+            </Text>
+            <Text style={{ fontSize: 12, color: colors.background, opacity: 0.6 }}>
+              Same questions for everyone today
+            </Text>
           </Pressable>
 
           {/* Game Modes Grid */}
           <Text className="text-lg font-bold text-foreground mb-4">Game Modes</Text>
 
           <View className="flex-row gap-3 mb-4">
-            {/* Quick Play */}
             <Pressable
-              onPress={() => handleModeSelect("quick_play")}
-              className="flex-1 bg-surface rounded-lg p-4 border border-border active:opacity-70"
+              onPress={() => goToQuiz("quick_play")}
+              style={{
+                flex: 1,
+                backgroundColor: colors.surface,
+                borderRadius: 12,
+                padding: 16,
+                borderWidth: 1,
+                borderColor: colors.border,
+              }}
             >
-              <Text className="text-2xl mb-2">⚡</Text>
-              <Text className="text-sm font-bold text-foreground mb-1">Quick Play</Text>
-              <Text className="text-xs text-muted">Random 10 questions</Text>
+              <Text style={{ fontSize: 24, marginBottom: 8 }}>⚡</Text>
+              <Text style={{ fontSize: 14, fontWeight: "bold", color: colors.foreground, marginBottom: 4 }}>
+                Quick Play
+              </Text>
+              <Text style={{ fontSize: 12, color: colors.muted }}>Random 10 questions</Text>
             </Pressable>
 
-            {/* Campaign */}
             <Pressable
-              onPress={() => router.push("/pantheon-selection")}
-              className="flex-1 bg-surface rounded-lg p-4 border border-border active:opacity-70"
+              onPress={async () => { await haptic(); router.push("/pantheon-selection"); }}
+              style={{
+                flex: 1,
+                backgroundColor: colors.surface,
+                borderRadius: 12,
+                padding: 16,
+                borderWidth: 1,
+                borderColor: colors.border,
+              }}
             >
-              <Text className="text-2xl mb-2">🏛️</Text>
-              <Text className="text-sm font-bold text-foreground mb-1">Campaign</Text>
-              <Text className="text-xs text-muted">5 stages per pantheon</Text>
+              <Text style={{ fontSize: 24, marginBottom: 8 }}>🏛️</Text>
+              <Text style={{ fontSize: 14, fontWeight: "bold", color: colors.foreground, marginBottom: 4 }}>
+                Campaign
+              </Text>
+              <Text style={{ fontSize: 12, color: colors.muted }}>5 stages per pantheon</Text>
             </Pressable>
           </View>
 
           <View className="flex-row gap-3 mb-8">
-            {/* Endless */}
             <Pressable
-              onPress={() => handleModeSelect("endless")}
-              className="flex-1 bg-surface rounded-lg p-4 border border-border active:opacity-70"
+              onPress={() => goToQuiz("endless")}
+              style={{
+                flex: 1,
+                backgroundColor: colors.surface,
+                borderRadius: 12,
+                padding: 16,
+                borderWidth: 1,
+                borderColor: colors.border,
+              }}
             >
-              <Text className="text-2xl mb-2">♾️</Text>
-              <Text className="text-sm font-bold text-foreground mb-1">Endless</Text>
-              <Text className="text-xs text-muted">Questions until 3 wrong</Text>
+              <Text style={{ fontSize: 24, marginBottom: 8 }}>♾️</Text>
+              <Text style={{ fontSize: 14, fontWeight: "bold", color: colors.foreground, marginBottom: 4 }}>
+                Endless
+              </Text>
+              <Text style={{ fontSize: 12, color: colors.muted }}>Questions until 3 wrong</Text>
             </Pressable>
 
-            {/* Versus */}
             <Pressable
-              onPress={() => handleModeSelect("versus")}
-              className="flex-1 bg-surface rounded-lg p-4 border border-border active:opacity-70"
+              onPress={showVersus}
+              style={{
+                flex: 1,
+                backgroundColor: colors.surface,
+                borderRadius: 12,
+                padding: 16,
+                borderWidth: 1,
+                borderColor: colors.border,
+                opacity: 0.6,
+              }}
             >
-              <Text className="text-2xl mb-2">⚔️</Text>
-              <Text className="text-sm font-bold text-foreground mb-1">Versus</Text>
-              <Text className="text-xs text-muted">1v1 real-time battles</Text>
+              <Text style={{ fontSize: 24, marginBottom: 8 }}>⚔️</Text>
+              <Text style={{ fontSize: 14, fontWeight: "bold", color: colors.foreground, marginBottom: 4 }}>
+                Versus
+              </Text>
+              <Text style={{ fontSize: 12, color: colors.muted }}>Coming soon</Text>
             </Pressable>
           </View>
 
           {/* Quick Links */}
           <View className="flex-row gap-3">
-            <Pressable className="flex-1 bg-surface rounded-lg py-3 border border-border active:opacity-70">
-              <Text className="text-center text-sm font-semibold text-foreground">👤 Profile</Text>
+            <Pressable
+              style={{
+                flex: 1,
+                backgroundColor: colors.surface,
+                borderRadius: 10,
+                paddingVertical: 12,
+                borderWidth: 1,
+                borderColor: colors.border,
+                alignItems: "center",
+              }}
+            >
+              <Text style={{ fontSize: 14, fontWeight: "600", color: colors.foreground }}>
+                👤 Profile
+              </Text>
             </Pressable>
-
-            <Pressable className="flex-1 bg-surface rounded-lg py-3 border border-border active:opacity-70">
-              <Text className="text-center text-sm font-semibold text-foreground">🏆 Leaderboard</Text>
+            <Pressable
+              style={{
+                flex: 1,
+                backgroundColor: colors.surface,
+                borderRadius: 10,
+                paddingVertical: 12,
+                borderWidth: 1,
+                borderColor: colors.border,
+                alignItems: "center",
+              }}
+            >
+              <Text style={{ fontSize: 14, fontWeight: "600", color: colors.foreground }}>
+                🏆 Leaderboard
+              </Text>
             </Pressable>
-
-            <Pressable className="flex-1 bg-surface rounded-lg py-3 border border-border active:opacity-70">
-              <Text className="text-center text-sm font-semibold text-foreground">⚙️ Settings</Text>
+            <Pressable
+              style={{
+                flex: 1,
+                backgroundColor: colors.surface,
+                borderRadius: 10,
+                paddingVertical: 12,
+                borderWidth: 1,
+                borderColor: colors.border,
+                alignItems: "center",
+              }}
+            >
+              <Text style={{ fontSize: 14, fontWeight: "600", color: colors.foreground }}>
+                ⚙️ Settings
+              </Text>
             </Pressable>
           </View>
+
         </View>
       </ScrollView>
     </ScreenContainer>

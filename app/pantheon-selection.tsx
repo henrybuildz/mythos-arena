@@ -27,8 +27,10 @@ export default function PantheonSelectionScreen() {
 
   const handleStartCampaign = () => {
     if (selectedPantheon) {
-      // TODO: Navigate to campaign screen
-      console.log("Starting campaign for pantheon:", selectedPantheon);
+      router.push({
+        pathname: "/quiz",
+        params: { mode: "campaign", pantheon: selectedPantheon },
+      });
     }
   };
 
